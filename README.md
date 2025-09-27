@@ -1,4 +1,13 @@
-title: Image Mosaic Generator emoji: 🎨 colorFrom: blue-400 colorTo: purple-500 sdk: gradio sdk_version: "4.31.0" app_file: app.py pinned: false
+---
+title: Image Mosaic Generator
+emoji: 🎨
+colorFrom: blue-400
+colorTo: purple-500
+sdk: gradio
+sdk_version: "4.31.0"
+app_file: app.py
+:pinned: false
+---
 
 # **Interactive Image Mosaic Generator**
 
