@@ -17082,18 +17082,24 @@ CLIENT_ID	data_preparation/1_download_covers.py	/^CLIENT_ID = os.environ.get('SP
 CLIENT_SECRET	data_preparation/1_download_covers.py	/^CLIENT_SECRET = os.environ.get('SPOTIPY_CLIENT_SECRET')$/;"	v
 LOADED_TILES	app.py	/^LOADED_TILES = {}$/;"	v
 OUTPUT_DIR	data_preparation/1_download_covers.py	/^OUTPUT_DIR = "raw_album_covers"$/;"	v
+OUTPUT_DIR	data_preparation/2_process_covers.py	/^OUTPUT_DIR = "processed_tiles_full_covers"$/;"	v
+SOURCE_DIR	data_preparation/2_process_covers.py	/^SOURCE_DIR = "raw_album_covers"$/;"	v
 TARGET_COVERS	data_preparation/1_download_covers.py	/^TARGET_COVERS = 5000 # The script will stop after reaching this number$/;"	v
 TILE_COLORS_LAB	app.py	/^    TILE_COLORS_LAB = np.array([t['avg_color_lab'] for t in TILE_DATA])$/;"	v
 TILE_DATA	app.py	/^        TILE_DATA = json.load(f)$/;"	v
 TILE_DATA	app.py	/^    TILE_DATA = [] # Prevent crash on startup$/;"	v
 TILE_DATA_FILE	app.py	/^TILE_DATA_FILE = "tile_data_full_covers_lab.json"$/;"	v
+TILE_DATA_FILE	data_preparation/2_process_covers.py	/^TILE_DATA_FILE = "tile_data_full_covers_lab.json"$/;"	v
 TILE_DIR	app.py	/^TILE_DIR = "processed_tiles_full_covers"$/;"	v
+TILE_SIZE	data_preparation/2_process_covers.py	/^TILE_SIZE = (128, 128) # Larger tile size to preserve detail of full covers$/;"	v
 absolute_path	app.py	/^    absolute_path = os.path.join(base_directory, TILE_DIR, filename)$/;"	v
 album_id	data_preparation/1_download_covers.py	/^                    album_id = album['id']$/;"	v
 album_name	data_preparation/1_download_covers.py	/^                    album_name = album['name']$/;"	v
 albums	data_preparation/1_download_covers.py	/^                albums = sp.artist_albums(artist_id, album_type='album,single', limit=50, offset/;"	v
 artist_id	data_preparation/1_download_covers.py	/^            artist_id = results['artists']['items'][0]['id']$/;"	v
 auth_manager	data_preparation/1_download_covers.py	/^    auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)$/;"	v
+avg_bgr_color	data_preparation/2_process_covers.py	/^    avg_bgr_color = cv2.mean(final_tile)[:3]$/;"	v
+avg_bgr_pixel	data_preparation/2_process_covers.py	/^    avg_bgr_pixel = np.uint8([[avg_bgr_color]])$/;"	v
 avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	object:0
 avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	object:1
 avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	object:10
@@ -21353,13 +21359,18 @@ avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	obje
 avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	object:997
 avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	object:998
 avg_color_lab	tile_data_full_covers_lab.json	/^    "avg_color_lab": [$/;"	a	object:999
+avg_lab_color	data_preparation/2_process_covers.py	/^    avg_lab_color = avg_lab_pixel[0][0].tolist()$/;"	v
+avg_lab_pixel	data_preparation/2_process_covers.py	/^    avg_lab_pixel = cv2.cvtColor(avg_bgr_pixel, cv2.COLOR_BGR2LAB)$/;"	v
 base_directory	app.py	/^base_directory = os.path.dirname(os.path.abspath(__file__))$/;"	v
 color_pool_slider	app.py	/^                color_pool_slider = gr.Slider(minimum=10, maximum=200, step=10, value=50, label=/;"	v
 complexity_slider	app.py	/^                complexity_slider = gr.Slider(minimum=5, maximum=50, step=1, value=15, label="Co/;"	v
 create_final_mosaic	app.py	/^def create_final_mosaic(original_image, max_size, min_size, complexity_threshold, color_pool_siz/;"	f
 downloaded_album_ids	data_preparation/1_download_covers.py	/^    downloaded_album_ids = set()$/;"	v
 filename	app.py	/^    filename = tile_info['path']$/;"	v
+filename	data_preparation/2_process_covers.py	/^    filename = f"full_cover_{tile_count}.png"$/;"	v
+final_tile	data_preparation/2_process_covers.py	/^    final_tile = cv2.resize(full_cover_image, TILE_SIZE, interpolation=cv2.INTER_AREA)$/;"	v
 find_best_tile	app.py	/^def find_best_tile(cell, k_color, k_ssim, used_tiles):$/;"	f
+full_cover_image	data_preparation/2_process_covers.py	/^    full_cover_image = cv2.imread(image_path)$/;"	v
 generate_recursive_split	app.py	/^def generate_recursive_split(image, min_size, complexity_threshold, k_color, k_ssim, used_tiles,/;"	f
 gr	app.py	/^import gradio as gr$/;"	I	nameref:module:gradio
 image_url	data_preparation/1_download_covers.py	/^                        image_url = album['images'][0]['url']$/;"	v
@@ -21368,8 +21379,10 @@ max_size_slider	app.py	/^                max_size_slider = gr.Slider(minimum=32,
 min_size_slider	app.py	/^                min_size_slider = gr.Slider(minimum=8, maximum=32, step=8, value=16, label="Min /;"	v
 mosaic_output	app.py	/^        mosaic_output = gr.Image(label="Final Mosaic", height=500)$/;"	v
 np	app.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	data_preparation/2_process_covers.py	/^import numpy as np$/;"	I	nameref:module:numpy
 offset	data_preparation/1_download_covers.py	/^            offset = 0$/;"	v
 output_path	data_preparation/1_download_covers.py	/^                            output_path = os.path.join(OUTPUT_DIR, f"{safe_filename}.jpg")$/;"	v
+output_path	data_preparation/2_process_covers.py	/^    output_path = os.path.join(OUTPUT_DIR, filename)$/;"	v
 path	tile_data_full_covers_lab.json	/^    "path": "full_cover_0.png",$/;"	s	object:0
 path	tile_data_full_covers_lab.json	/^    "path": "full_cover_1.png",$/;"	s	object:1
 path	tile_data_full_covers_lab.json	/^    "path": "full_cover_10.png",$/;"	s	object:10
@@ -25635,10 +25648,13 @@ safe_filename	data_preparation/1_download_covers.py	/^                          
 score_output	app.py	/^        score_output = gr.Textbox(label="Similarity Score (SSIM)")$/;"	v
 segmented_output	app.py	/^        segmented_output = gr.Image(label="Segmented Image (Adaptive Grid)", height=500)$/;"	v
 source_image	app.py	/^        source_image = gr.Image(type="numpy", label="Original Image", height=500)$/;"	v
+source_image_paths	data_preparation/2_process_covers.py	/^source_image_paths = glob.glob(f"{SOURCE_DIR}\/*.jpg") + glob.glob(f"{SOURCE_DIR}\/*.jpeg") + gl/;"	v
 sp	data_preparation/1_download_covers.py	/^    sp = spotipy.Spotify(auth_manager=auth_manager)$/;"	v
 ssim	app.py	/^from skimage.metrics import structural_similarity as ssim$/;"	Y	nameref:unknown:structural_similarity
 structural_diversity_slider	app.py	/^                structural_diversity_slider = gr.Slider(minimum=1, maximum=20, step=1, value=5, /;"	v
 submit_button	app.py	/^        submit_button = gr.Button("🎨 Generate Mosaic", variant="primary", size="lg")$/;"	v
+tile_count	data_preparation/2_process_covers.py	/^tile_count = 0$/;"	v
+tile_database	data_preparation/2_process_covers.py	/^tile_database = []$/;"	v
 tile_image	app.py	/^    tile_image = cv2.imread(absolute_path)$/;"	v
 tiles_loaded_count	app.py	/^tiles_loaded_count = 0$/;"	v
 upload_and_resize_image	app.py	/^def upload_and_resize_image(image):$/;"	f
