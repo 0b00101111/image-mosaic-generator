@@ -20,7 +20,12 @@ TILE_DATA_FILE = "tile_data_full_covers_lab.json"
 TILE_DIR = "processed_tiles_full_covers"
 
 # Get the directory where the script is located to build absolute paths
-base_directory = os.path.dirname(os.path.abspath(__file__))
+# Use a simple try-except block to handle running in different environments (like notebook vs .py)
+try:
+    base_directory = os.path.dirname(os.path.abspath(__file__))
+except NameError:
+    base_directory = os.getcwd()
+
 json_path = os.path.join(base_directory, TILE_DATA_FILE)
 
 try:
@@ -49,12 +54,8 @@ if TILE_DATA:
 # --- 2. CORE MOSAIC ENGINE ---
 
 def find_best_tile(cell, k_color, k_ssim, used_tiles):
-    """
-    Finds the best tile for a given cell, enforcing a strict no-repeat policy for all tiles.
-    """
     cell_h, cell_w, _ = cell.shape
     if cell.size == 0: return None, None
-
     avg_cell_bgr = cv2.mean(cell)[:3]
     avg_cell_lab = cv2.cvtColor(np.uint8([[avg_cell_bgr]]), cv2.COLOR_BGR2LAB)[0][0]
     distances = np.sqrt(np.sum((TILE_COLORS_LAB - avg_cell_lab)**2, axis=1))
@@ -62,7 +63,6 @@ def find_best_tile(cell, k_color, k_ssim, used_tiles):
     best_tile_path = None
 
     if cell_h >= 7 and cell_w >= 7:
-        # Main Hybrid SSIM Logic
         ssim_candidates = []
         gray_cell = cv2.cvtColor(cell, cv2.COLOR_BGR2GRAY)
         for idx in candidate_indices:
@@ -74,29 +74,22 @@ def find_best_tile(cell, k_color, k_ssim, used_tiles):
             ssim_candidates.append({'path': path, 'score': score})
         ssim_candidates.sort(key=lambda c: c['score'], reverse=True)
         top_ssim_paths = [c['path'] for c in ssim_candidates]
-
-        # Apply strict no-repeat filter
         available_paths = [p for p in top_ssim_paths if p not in used_tiles]
         pool_to_choose_from = available_paths if available_paths else top_ssim_paths
         num_top_choices = min(k_ssim, len(pool_to_choose_from))
         best_tile_path = random.choice(pool_to_choose_from[:num_top_choices])
     else:
-        # Fallback logic for small tiles
         candidate_distances = [(distances[i], i) for i in candidate_indices]
         candidate_distances.sort(key=lambda t: t[0])
         top_color_indices = [idx for dist, idx in candidate_distances]
         top_color_paths = [TILE_DATA[i]['path'] for i in top_color_indices]
-
-        # Apply strict no-repeat filter
         available_paths = [p for p in top_color_paths if p not in used_tiles]
         pool_to_choose_from = available_paths if available_paths else top_color_paths
         num_top_choices = min(k_ssim, len(pool_to_choose_from))
         best_tile_path = random.choice(pool_to_choose_from[:num_top_choices])
 
-    # Add the chosen tile to the used set so it won't be picked again
     if best_tile_path:
         used_tiles.add(best_tile_path)
-
     return best_tile_path, avg_cell_bgr
 
 def generate_recursive_split(image, min_size, complexity_threshold, k_color, k_ssim, used_tiles, draw_grid_lines=True):
@@ -143,6 +136,9 @@ def create_final_mosaic(original_image, max_size, min_size, complexity_threshold
     h, w, _ = target_image_bgr.shape
     final_mosaic_bgr = np.zeros_like(target_image_bgr)
     segmented_bgr = np.zeros_like(target_image_bgr)
+
+    # --- THIS IS THE FIX ---
+    # The 'used_tiles' set is now created ONCE, outside the main loop.
     used_tiles = set()
 
     for y in progress.tqdm(range(0, h, max_size), desc="Processing Grid"):
@@ -187,3 +183,5 @@ with gr.Blocks(theme=gr.themes.Default(), title="Image Mosaic Generator") as dem
 # This block allows the script to be run from the command line
 if __name__ == "__main__":
     demo.launch()
+
+    
