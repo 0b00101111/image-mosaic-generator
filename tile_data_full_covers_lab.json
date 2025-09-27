@@ -80,14 +80,6 @@
     ]
   },
   {
-    "path": "full_cover_10.png",
-    "avg_color_lab": [
-      36,
-      129,
-      122
-    ]
-  },
-  {
     "path": "full_cover_11.png",
     "avg_color_lab": [
       169,
@@ -165,14 +157,6 @@
       162,
       137,
       149
-    ]
-  },
-  {
-    "path": "full_cover_21.png",
-    "avg_color_lab": [
-      119,
-      117,
-      109
     ]
   },
   {
@@ -333,14 +317,6 @@
       162,
       136,
       142
-    ]
-  },
-  {
-    "path": "full_cover_42.png",
-    "avg_color_lab": [
-      115,
-      121,
-      116
     ]
   },
   {
@@ -616,14 +592,6 @@
     ]
   },
   {
-    "path": "full_cover_77.png",
-    "avg_color_lab": [
-      57,
-      144,
-      147
-    ]
-  },
-  {
     "path": "full_cover_78.png",
     "avg_color_lab": [
       114,
@@ -704,14 +672,6 @@
     ]
   },
   {
-    "path": "full_cover_88.png",
-    "avg_color_lab": [
-      86,
-      154,
-      142
-    ]
-  },
-  {
     "path": "full_cover_89.png",
     "avg_color_lab": [
       150,
@@ -728,14 +688,6 @@
     ]
   },
   {
-    "path": "full_cover_91.png",
-    "avg_color_lab": [
-      123,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_92.png",
     "avg_color_lab": [
       166,
@@ -749,14 +701,6 @@
       82,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_94.png",
-    "avg_color_lab": [
-      96,
-      129,
-      127
     ]
   },
   {
@@ -800,30 +744,6 @@
     ]
   },
   {
-    "path": "full_cover_100.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
-    "path": "full_cover_101.png",
-    "avg_color_lab": [
-      158,
-      129,
-      132
-    ]
-  },
-  {
-    "path": "full_cover_102.png",
-    "avg_color_lab": [
-      243,
-      130,
-      129
-    ]
-  },
-  {
     "path": "full_cover_103.png",
     "avg_color_lab": [
       180,
@@ -840,14 +760,6 @@
     ]
   },
   {
-    "path": "full_cover_105.png",
-    "avg_color_lab": [
-      190,
-      132,
-      138
-    ]
-  },
-  {
     "path": "full_cover_106.png",
     "avg_color_lab": [
       55,
@@ -861,14 +773,6 @@
       141,
       130,
       129
-    ]
-  },
-  {
-    "path": "full_cover_108.png",
-    "avg_color_lab": [
-      228,
-      126,
-      148
     ]
   },
   {
@@ -925,14 +829,6 @@
       42,
       119,
       126
-    ]
-  },
-  {
-    "path": "full_cover_116.png",
-    "avg_color_lab": [
-      111,
-      129,
-      128
     ]
   },
   {
@@ -1040,14 +936,6 @@
     ]
   },
   {
-    "path": "full_cover_130.png",
-    "avg_color_lab": [
-      55,
-      131,
-      134
-    ]
-  },
-  {
     "path": "full_cover_131.png",
     "avg_color_lab": [
       202,
@@ -1101,14 +989,6 @@
       129,
       118,
       126
-    ]
-  },
-  {
-    "path": "full_cover_138.png",
-    "avg_color_lab": [
-      33,
-      128,
-      128
     ]
   },
   {
@@ -1248,14 +1128,6 @@
     ]
   },
   {
-    "path": "full_cover_156.png",
-    "avg_color_lab": [
-      191,
-      132,
-      135
-    ]
-  },
-  {
     "path": "full_cover_157.png",
     "avg_color_lab": [
       126,
@@ -1301,14 +1173,6 @@
       111,
       141,
       136
-    ]
-  },
-  {
-    "path": "full_cover_163.png",
-    "avg_color_lab": [
-      106,
-      131,
-      127
     ]
   },
   {
@@ -1365,14 +1229,6 @@
       127,
       133,
       159
-    ]
-  },
-  {
-    "path": "full_cover_171.png",
-    "avg_color_lab": [
-      52,
-      154,
-      148
     ]
   },
   {
@@ -1592,14 +1448,6 @@
     ]
   },
   {
-    "path": "full_cover_199.png",
-    "avg_color_lab": [
-      43,
-      131,
-      131
-    ]
-  },
-  {
     "path": "full_cover_200.png",
     "avg_color_lab": [
       131,
@@ -1629,14 +1477,6 @@
       78,
       129,
       128
-    ]
-  },
-  {
-    "path": "full_cover_204.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -1733,14 +1573,6 @@
       80,
       143,
       123
-    ]
-  },
-  {
-    "path": "full_cover_217.png",
-    "avg_color_lab": [
-      133,
-      134,
-      156
     ]
   },
   {
@@ -1920,14 +1752,6 @@
     ]
   },
   {
-    "path": "full_cover_240.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_241.png",
     "avg_color_lab": [
       134,
@@ -2080,14 +1904,6 @@
     ]
   },
   {
-    "path": "full_cover_260.png",
-    "avg_color_lab": [
-      130,
-      125,
-      129
-    ]
-  },
-  {
     "path": "full_cover_261.png",
     "avg_color_lab": [
       138,
@@ -2176,14 +1992,6 @@
     ]
   },
   {
-    "path": "full_cover_272.png",
-    "avg_color_lab": [
-      100,
-      132,
-      126
-    ]
-  },
-  {
     "path": "full_cover_273.png",
     "avg_color_lab": [
       188,
@@ -2216,14 +2024,6 @@
     ]
   },
   {
-    "path": "full_cover_277.png",
-    "avg_color_lab": [
-      14,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_278.png",
     "avg_color_lab": [
       190,
@@ -2245,14 +2045,6 @@
       124,
       170,
       143
-    ]
-  },
-  {
-    "path": "full_cover_281.png",
-    "avg_color_lab": [
-      181,
-      139,
-      134
     ]
   },
   {
@@ -2424,14 +2216,6 @@
     ]
   },
   {
-    "path": "full_cover_303.png",
-    "avg_color_lab": [
-      153,
-      113,
-      156
-    ]
-  },
-  {
     "path": "full_cover_304.png",
     "avg_color_lab": [
       76,
@@ -2552,14 +2336,6 @@
     ]
   },
   {
-    "path": "full_cover_319.png",
-    "avg_color_lab": [
-      69,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_320.png",
     "avg_color_lab": [
       40,
@@ -2621,22 +2397,6 @@
       125,
       129,
       153
-    ]
-  },
-  {
-    "path": "full_cover_328.png",
-    "avg_color_lab": [
-      80,
-      143,
-      108
-    ]
-  },
-  {
-    "path": "full_cover_329.png",
-    "avg_color_lab": [
-      155,
-      136,
-      131
     ]
   },
   {
@@ -2784,14 +2544,6 @@
     ]
   },
   {
-    "path": "full_cover_348.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_349.png",
     "avg_color_lab": [
       185,
@@ -2872,14 +2624,6 @@
     ]
   },
   {
-    "path": "full_cover_359.png",
-    "avg_color_lab": [
-      211,
-      127,
-      130
-    ]
-  },
-  {
     "path": "full_cover_360.png",
     "avg_color_lab": [
       173,
@@ -2920,14 +2664,6 @@
     ]
   },
   {
-    "path": "full_cover_365.png",
-    "avg_color_lab": [
-      118,
-      134,
-      140
-    ]
-  },
-  {
     "path": "full_cover_366.png",
     "avg_color_lab": [
       72,
@@ -2949,14 +2685,6 @@
       105,
       135,
       147
-    ]
-  },
-  {
-    "path": "full_cover_369.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -2992,14 +2720,6 @@
     ]
   },
   {
-    "path": "full_cover_374.png",
-    "avg_color_lab": [
-      57,
-      144,
-      147
-    ]
-  },
-  {
     "path": "full_cover_375.png",
     "avg_color_lab": [
       148,
@@ -3013,14 +2733,6 @@
       174,
       130,
       135
-    ]
-  },
-  {
-    "path": "full_cover_377.png",
-    "avg_color_lab": [
-      186,
-      127,
-      126
     ]
   },
   {
@@ -3117,14 +2829,6 @@
       109,
       130,
       129
-    ]
-  },
-  {
-    "path": "full_cover_390.png",
-    "avg_color_lab": [
-      191,
-      132,
-      135
     ]
   },
   {
@@ -3248,14 +2952,6 @@
     ]
   },
   {
-    "path": "full_cover_406.png",
-    "avg_color_lab": [
-      168,
-      132,
-      156
-    ]
-  },
-  {
     "path": "full_cover_407.png",
     "avg_color_lab": [
       82,
@@ -3336,14 +3032,6 @@
     ]
   },
   {
-    "path": "full_cover_417.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_418.png",
     "avg_color_lab": [
       97,
@@ -3421,14 +3109,6 @@
       34,
       143,
       141
-    ]
-  },
-  {
-    "path": "full_cover_428.png",
-    "avg_color_lab": [
-      117,
-      134,
-      140
     ]
   },
   {
@@ -3560,14 +3240,6 @@
     ]
   },
   {
-    "path": "full_cover_445.png",
-    "avg_color_lab": [
-      54,
-      122,
-      127
-    ]
-  },
-  {
     "path": "full_cover_446.png",
     "avg_color_lab": [
       92,
@@ -3672,22 +3344,6 @@
     ]
   },
   {
-    "path": "full_cover_459.png",
-    "avg_color_lab": [
-      112,
-      164,
-      157
-    ]
-  },
-  {
-    "path": "full_cover_460.png",
-    "avg_color_lab": [
-      215,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_461.png",
     "avg_color_lab": [
       63,
@@ -3709,14 +3365,6 @@
       129,
       173,
       133
-    ]
-  },
-  {
-    "path": "full_cover_464.png",
-    "avg_color_lab": [
-      142,
-      132,
-      131
     ]
   },
   {
@@ -3824,14 +3472,6 @@
     ]
   },
   {
-    "path": "full_cover_478.png",
-    "avg_color_lab": [
-      181,
-      139,
-      133
-    ]
-  },
-  {
     "path": "full_cover_479.png",
     "avg_color_lab": [
       89,
@@ -3853,14 +3493,6 @@
       75,
       138,
       145
-    ]
-  },
-  {
-    "path": "full_cover_482.png",
-    "avg_color_lab": [
-      180,
-      128,
-      128
     ]
   },
   {
@@ -3896,14 +3528,6 @@
     ]
   },
   {
-    "path": "full_cover_487.png",
-    "avg_color_lab": [
-      178,
-      130,
-      129
-    ]
-  },
-  {
     "path": "full_cover_488.png",
     "avg_color_lab": [
       55,
@@ -3936,14 +3560,6 @@
     ]
   },
   {
-    "path": "full_cover_492.png",
-    "avg_color_lab": [
-      111,
-      136,
-      131
-    ]
-  },
-  {
     "path": "full_cover_493.png",
     "avg_color_lab": [
       140,
@@ -3957,14 +3573,6 @@
       48,
       128,
       132
-    ]
-  },
-  {
-    "path": "full_cover_495.png",
-    "avg_color_lab": [
-      90,
-      128,
-      130
     ]
   },
   {
@@ -3984,27 +3592,11 @@
     ]
   },
   {
-    "path": "full_cover_498.png",
-    "avg_color_lab": [
-      206,
-      128,
-      126
-    ]
-  },
-  {
     "path": "full_cover_499.png",
     "avg_color_lab": [
       54,
       136,
       151
-    ]
-  },
-  {
-    "path": "full_cover_500.png",
-    "avg_color_lab": [
-      152,
-      127,
-      128
     ]
   },
   {
@@ -4088,14 +3680,6 @@
     ]
   },
   {
-    "path": "full_cover_511.png",
-    "avg_color_lab": [
-      215,
-      131,
-      139
-    ]
-  },
-  {
     "path": "full_cover_512.png",
     "avg_color_lab": [
       69,
@@ -4120,14 +3704,6 @@
     ]
   },
   {
-    "path": "full_cover_515.png",
-    "avg_color_lab": [
-      113,
-      130,
-      133
-    ]
-  },
-  {
     "path": "full_cover_516.png",
     "avg_color_lab": [
       98,
@@ -4149,14 +3725,6 @@
       101,
       161,
       152
-    ]
-  },
-  {
-    "path": "full_cover_519.png",
-    "avg_color_lab": [
-      82,
-      130,
-      141
     ]
   },
   {
@@ -4256,14 +3824,6 @@
     ]
   },
   {
-    "path": "full_cover_532.png",
-    "avg_color_lab": [
-      48,
-      140,
-      142
-    ]
-  },
-  {
     "path": "full_cover_533.png",
     "avg_color_lab": [
       109,
@@ -4293,14 +3853,6 @@
       51,
       125,
       127
-    ]
-  },
-  {
-    "path": "full_cover_537.png",
-    "avg_color_lab": [
-      102,
-      159,
-      155
     ]
   },
   {
@@ -4368,22 +3920,6 @@
     ]
   },
   {
-    "path": "full_cover_546.png",
-    "avg_color_lab": [
-      33,
-      125,
-      129
-    ]
-  },
-  {
-    "path": "full_cover_547.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_548.png",
     "avg_color_lab": [
       156,
@@ -4413,22 +3949,6 @@
       201,
       141,
       123
-    ]
-  },
-  {
-    "path": "full_cover_552.png",
-    "avg_color_lab": [
-      121,
-      129,
-      126
-    ]
-  },
-  {
-    "path": "full_cover_553.png",
-    "avg_color_lab": [
-      144,
-      154,
-      147
     ]
   },
   {
@@ -4496,27 +4016,11 @@
     ]
   },
   {
-    "path": "full_cover_562.png",
-    "avg_color_lab": [
-      142,
-      128,
-      131
-    ]
-  },
-  {
     "path": "full_cover_563.png",
     "avg_color_lab": [
       163,
       133,
       109
-    ]
-  },
-  {
-    "path": "full_cover_564.png",
-    "avg_color_lab": [
-      59,
-      128,
-      130
     ]
   },
   {
@@ -4624,14 +4128,6 @@
     ]
   },
   {
-    "path": "full_cover_578.png",
-    "avg_color_lab": [
-      102,
-      136,
-      118
-    ]
-  },
-  {
     "path": "full_cover_579.png",
     "avg_color_lab": [
       72,
@@ -4712,27 +4208,11 @@
     ]
   },
   {
-    "path": "full_cover_589.png",
-    "avg_color_lab": [
-      98,
-      127,
-      139
-    ]
-  },
-  {
     "path": "full_cover_590.png",
     "avg_color_lab": [
       130,
       132,
       121
-    ]
-  },
-  {
-    "path": "full_cover_591.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
     ]
   },
   {
@@ -4781,14 +4261,6 @@
       29,
       129,
       139
-    ]
-  },
-  {
-    "path": "full_cover_598.png",
-    "avg_color_lab": [
-      145,
-      129,
-      125
     ]
   },
   {
@@ -4877,14 +4349,6 @@
       124,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_610.png",
-    "avg_color_lab": [
-      58,
-      127,
-      129
     ]
   },
   {
@@ -5021,14 +4485,6 @@
       163,
       124,
       126
-    ]
-  },
-  {
-    "path": "full_cover_628.png",
-    "avg_color_lab": [
-      90,
-      141,
-      118
     ]
   },
   {
@@ -5224,22 +4680,6 @@
     ]
   },
   {
-    "path": "full_cover_653.png",
-    "avg_color_lab": [
-      124,
-      120,
-      148
-    ]
-  },
-  {
-    "path": "full_cover_654.png",
-    "avg_color_lab": [
-      253,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_655.png",
     "avg_color_lab": [
       203,
@@ -5272,27 +4712,11 @@
     ]
   },
   {
-    "path": "full_cover_659.png",
-    "avg_color_lab": [
-      77,
-      124,
-      110
-    ]
-  },
-  {
     "path": "full_cover_660.png",
     "avg_color_lab": [
       32,
       134,
       118
-    ]
-  },
-  {
-    "path": "full_cover_661.png",
-    "avg_color_lab": [
-      80,
-      129,
-      126
     ]
   },
   {
@@ -5336,14 +4760,6 @@
     ]
   },
   {
-    "path": "full_cover_667.png",
-    "avg_color_lab": [
-      36,
-      129,
-      122
-    ]
-  },
-  {
     "path": "full_cover_668.png",
     "avg_color_lab": [
       97,
@@ -5368,27 +4784,11 @@
     ]
   },
   {
-    "path": "full_cover_671.png",
-    "avg_color_lab": [
-      65,
-      131,
-      139
-    ]
-  },
-  {
     "path": "full_cover_672.png",
     "avg_color_lab": [
       143,
       126,
       136
-    ]
-  },
-  {
-    "path": "full_cover_673.png",
-    "avg_color_lab": [
-      80,
-      129,
-      126
     ]
   },
   {
@@ -5413,14 +4813,6 @@
       181,
       124,
       121
-    ]
-  },
-  {
-    "path": "full_cover_677.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -5461,14 +4853,6 @@
       120,
       131,
       111
-    ]
-  },
-  {
-    "path": "full_cover_683.png",
-    "avg_color_lab": [
-      146,
-      132,
-      145
     ]
   },
   {
@@ -5516,22 +4900,6 @@
     "avg_color_lab": [
       168,
       127,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_690.png",
-    "avg_color_lab": [
-      80,
-      143,
-      108
-    ]
-  },
-  {
-    "path": "full_cover_691.png",
-    "avg_color_lab": [
-      69,
-      128,
       128
     ]
   },
@@ -5592,14 +4960,6 @@
     ]
   },
   {
-    "path": "full_cover_699.png",
-    "avg_color_lab": [
-      247,
-      129,
-      128
-    ]
-  },
-  {
     "path": "full_cover_700.png",
     "avg_color_lab": [
       124,
@@ -5608,27 +4968,11 @@
     ]
   },
   {
-    "path": "full_cover_701.png",
-    "avg_color_lab": [
-      111,
-      129,
-      128
-    ]
-  },
-  {
     "path": "full_cover_702.png",
     "avg_color_lab": [
       159,
       129,
       130
-    ]
-  },
-  {
-    "path": "full_cover_703.png",
-    "avg_color_lab": [
-      157,
-      157,
-      138
     ]
   },
   {
@@ -5661,14 +5005,6 @@
       79,
       132,
       127
-    ]
-  },
-  {
-    "path": "full_cover_708.png",
-    "avg_color_lab": [
-      59,
-      133,
-      143
     ]
   },
   {
@@ -5725,14 +5061,6 @@
       111,
       154,
       108
-    ]
-  },
-  {
-    "path": "full_cover_716.png",
-    "avg_color_lab": [
-      230,
-      131,
-      129
     ]
   },
   {
@@ -5808,14 +5136,6 @@
     ]
   },
   {
-    "path": "full_cover_726.png",
-    "avg_color_lab": [
-      27,
-      131,
-      133
-    ]
-  },
-  {
     "path": "full_cover_727.png",
     "avg_color_lab": [
       133,
@@ -5829,14 +5149,6 @@
       115,
       129,
       131
-    ]
-  },
-  {
-    "path": "full_cover_729.png",
-    "avg_color_lab": [
-      85,
-      140,
-      144
     ]
   },
   {
@@ -5861,22 +5173,6 @@
       126,
       135,
       136
-    ]
-  },
-  {
-    "path": "full_cover_733.png",
-    "avg_color_lab": [
-      40,
-      126,
-      131
-    ]
-  },
-  {
-    "path": "full_cover_734.png",
-    "avg_color_lab": [
-      95,
-      152,
-      151
     ]
   },
   {
@@ -6080,14 +5376,6 @@
     ]
   },
   {
-    "path": "full_cover_760.png",
-    "avg_color_lab": [
-      112,
-      138,
-      140
-    ]
-  },
-  {
     "path": "full_cover_761.png",
     "avg_color_lab": [
       186,
@@ -6104,14 +5392,6 @@
     ]
   },
   {
-    "path": "full_cover_763.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_764.png",
     "avg_color_lab": [
       137,
@@ -6125,14 +5405,6 @@
       101,
       123,
       124
-    ]
-  },
-  {
-    "path": "full_cover_766.png",
-    "avg_color_lab": [
-      59,
-      128,
-      130
     ]
   },
   {
@@ -6157,14 +5429,6 @@
       148,
       139,
       132
-    ]
-  },
-  {
-    "path": "full_cover_770.png",
-    "avg_color_lab": [
-      139,
-      130,
-      126
     ]
   },
   {
@@ -6200,27 +5464,11 @@
     ]
   },
   {
-    "path": "full_cover_775.png",
-    "avg_color_lab": [
-      175,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_776.png",
     "avg_color_lab": [
       138,
       130,
       132
-    ]
-  },
-  {
-    "path": "full_cover_777.png",
-    "avg_color_lab": [
-      196,
-      112,
-      152
     ]
   },
   {
@@ -6408,14 +5656,6 @@
     ]
   },
   {
-    "path": "full_cover_801.png",
-    "avg_color_lab": [
-      100,
-      132,
-      126
-    ]
-  },
-  {
     "path": "full_cover_802.png",
     "avg_color_lab": [
       69,
@@ -6536,14 +5776,6 @@
     ]
   },
   {
-    "path": "full_cover_817.png",
-    "avg_color_lab": [
-      2,
-      128,
-      127
-    ]
-  },
-  {
     "path": "full_cover_818.png",
     "avg_color_lab": [
       73,
@@ -6621,14 +5853,6 @@
       39,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_828.png",
-    "avg_color_lab": [
-      71,
-      135,
-      119
     ]
   },
   {
@@ -6720,14 +5944,6 @@
     ]
   },
   {
-    "path": "full_cover_840.png",
-    "avg_color_lab": [
-      211,
-      137,
-      131
-    ]
-  },
-  {
     "path": "full_cover_841.png",
     "avg_color_lab": [
       137,
@@ -6784,14 +6000,6 @@
     ]
   },
   {
-    "path": "full_cover_848.png",
-    "avg_color_lab": [
-      117,
-      128,
-      127
-    ]
-  },
-  {
     "path": "full_cover_849.png",
     "avg_color_lab": [
       99,
@@ -6845,14 +6053,6 @@
       57,
       127,
       129
-    ]
-  },
-  {
-    "path": "full_cover_856.png",
-    "avg_color_lab": [
-      137,
-      121,
-      121
     ]
   },
   {
@@ -6952,14 +6152,6 @@
     ]
   },
   {
-    "path": "full_cover_869.png",
-    "avg_color_lab": [
-      32,
-      128,
-      123
-    ]
-  },
-  {
     "path": "full_cover_870.png",
     "avg_color_lab": [
       114,
@@ -7040,14 +6232,6 @@
     ]
   },
   {
-    "path": "full_cover_880.png",
-    "avg_color_lab": [
-      74,
-      127,
-      129
-    ]
-  },
-  {
     "path": "full_cover_881.png",
     "avg_color_lab": [
       55,
@@ -7120,14 +6304,6 @@
     ]
   },
   {
-    "path": "full_cover_890.png",
-    "avg_color_lab": [
-      121,
-      129,
-      126
-    ]
-  },
-  {
     "path": "full_cover_891.png",
     "avg_color_lab": [
       21,
@@ -7168,14 +6344,6 @@
     ]
   },
   {
-    "path": "full_cover_896.png",
-    "avg_color_lab": [
-      132,
-      109,
-      156
-    ]
-  },
-  {
     "path": "full_cover_897.png",
     "avg_color_lab": [
       135,
@@ -7208,22 +6376,6 @@
     ]
   },
   {
-    "path": "full_cover_901.png",
-    "avg_color_lab": [
-      40,
-      126,
-      131
-    ]
-  },
-  {
-    "path": "full_cover_902.png",
-    "avg_color_lab": [
-      43,
-      131,
-      131
-    ]
-  },
-  {
     "path": "full_cover_903.png",
     "avg_color_lab": [
       86,
@@ -7245,14 +6397,6 @@
       126,
       144,
       135
-    ]
-  },
-  {
-    "path": "full_cover_906.png",
-    "avg_color_lab": [
-      81,
-      132,
-      121
     ]
   },
   {
@@ -7328,14 +6472,6 @@
     ]
   },
   {
-    "path": "full_cover_916.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_917.png",
     "avg_color_lab": [
       169,
@@ -7352,27 +6488,11 @@
     ]
   },
   {
-    "path": "full_cover_919.png",
-    "avg_color_lab": [
-      95,
-      139,
-      143
-    ]
-  },
-  {
     "path": "full_cover_920.png",
     "avg_color_lab": [
       126,
       140,
       173
-    ]
-  },
-  {
-    "path": "full_cover_921.png",
-    "avg_color_lab": [
-      15,
-      130,
-      128
     ]
   },
   {
@@ -7448,14 +6568,6 @@
     ]
   },
   {
-    "path": "full_cover_931.png",
-    "avg_color_lab": [
-      89,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_932.png",
     "avg_color_lab": [
       62,
@@ -7496,27 +6608,11 @@
     ]
   },
   {
-    "path": "full_cover_937.png",
-    "avg_color_lab": [
-      138,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_938.png",
     "avg_color_lab": [
       58,
       132,
       130
-    ]
-  },
-  {
-    "path": "full_cover_939.png",
-    "avg_color_lab": [
-      77,
-      133,
-      139
     ]
   },
   {
@@ -7541,14 +6637,6 @@
       83,
       127,
       137
-    ]
-  },
-  {
-    "path": "full_cover_943.png",
-    "avg_color_lab": [
-      69,
-      135,
-      146
     ]
   },
   {
@@ -7624,14 +6712,6 @@
     ]
   },
   {
-    "path": "full_cover_953.png",
-    "avg_color_lab": [
-      97,
-      135,
-      132
-    ]
-  },
-  {
     "path": "full_cover_954.png",
     "avg_color_lab": [
       107,
@@ -7677,14 +6757,6 @@
       33,
       128,
       113
-    ]
-  },
-  {
-    "path": "full_cover_960.png",
-    "avg_color_lab": [
-      80,
-      143,
-      108
     ]
   },
   {
@@ -7776,14 +6848,6 @@
     ]
   },
   {
-    "path": "full_cover_972.png",
-    "avg_color_lab": [
-      1,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_973.png",
     "avg_color_lab": [
       53,
@@ -7828,14 +6892,6 @@
     "avg_color_lab": [
       130,
       129,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_979.png",
-    "avg_color_lab": [
-      33,
-      128,
       128
     ]
   },
@@ -7957,22 +7013,6 @@
       52,
       130,
       132
-    ]
-  },
-  {
-    "path": "full_cover_995.png",
-    "avg_color_lab": [
-      130,
-      131,
-      133
-    ]
-  },
-  {
-    "path": "full_cover_996.png",
-    "avg_color_lab": [
-      71,
-      135,
-      119
     ]
   },
   {
@@ -8168,14 +7208,6 @@
     ]
   },
   {
-    "path": "full_cover_1021.png",
-    "avg_color_lab": [
-      119,
-      117,
-      109
-    ]
-  },
-  {
     "path": "full_cover_1022.png",
     "avg_color_lab": [
       156,
@@ -8272,14 +7304,6 @@
     ]
   },
   {
-    "path": "full_cover_1034.png",
-    "avg_color_lab": [
-      84,
-      167,
-      157
-    ]
-  },
-  {
     "path": "full_cover_1035.png",
     "avg_color_lab": [
       50,
@@ -8309,14 +7333,6 @@
       37,
       130,
       127
-    ]
-  },
-  {
-    "path": "full_cover_1039.png",
-    "avg_color_lab": [
-      5,
-      128,
-      128
     ]
   },
   {
@@ -8416,27 +7432,11 @@
     ]
   },
   {
-    "path": "full_cover_1052.png",
-    "avg_color_lab": [
-      196,
-      135,
-      138
-    ]
-  },
-  {
     "path": "full_cover_1053.png",
     "avg_color_lab": [
       142,
       122,
       128
-    ]
-  },
-  {
-    "path": "full_cover_1054.png",
-    "avg_color_lab": [
-      82,
-      130,
-      141
     ]
   },
   {
@@ -8461,22 +7461,6 @@
       66,
       129,
       129
-    ]
-  },
-  {
-    "path": "full_cover_1058.png",
-    "avg_color_lab": [
-      106,
-      131,
-      134
-    ]
-  },
-  {
-    "path": "full_cover_1059.png",
-    "avg_color_lab": [
-      126,
-      117,
-      146
     ]
   },
   {
@@ -8517,14 +7501,6 @@
       98,
       135,
       134
-    ]
-  },
-  {
-    "path": "full_cover_1065.png",
-    "avg_color_lab": [
-      124,
-      114,
-      147
     ]
   },
   {
@@ -8589,14 +7565,6 @@
       173,
       127,
       137
-    ]
-  },
-  {
-    "path": "full_cover_1074.png",
-    "avg_color_lab": [
-      191,
-      132,
-      135
     ]
   },
   {
@@ -8936,14 +7904,6 @@
     ]
   },
   {
-    "path": "full_cover_1117.png",
-    "avg_color_lab": [
-      153,
-      113,
-      156
-    ]
-  },
-  {
     "path": "full_cover_1118.png",
     "avg_color_lab": [
       54,
@@ -9013,14 +7973,6 @@
       86,
       154,
       142
-    ]
-  },
-  {
-    "path": "full_cover_1127.png",
-    "avg_color_lab": [
-      38,
-      129,
-      127
     ]
   },
   {
@@ -9128,14 +8080,6 @@
     ]
   },
   {
-    "path": "full_cover_1141.png",
-    "avg_color_lab": [
-      100,
-      132,
-      126
-    ]
-  },
-  {
     "path": "full_cover_1142.png",
     "avg_color_lab": [
       16,
@@ -9176,14 +8120,6 @@
     ]
   },
   {
-    "path": "full_cover_1147.png",
-    "avg_color_lab": [
-      119,
-      117,
-      109
-    ]
-  },
-  {
     "path": "full_cover_1148.png",
     "avg_color_lab": [
       114,
@@ -9208,14 +8144,6 @@
     ]
   },
   {
-    "path": "full_cover_1151.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_1152.png",
     "avg_color_lab": [
       51,
@@ -9228,14 +8156,6 @@
     "avg_color_lab": [
       55,
       129,
-      130
-    ]
-  },
-  {
-    "path": "full_cover_1154.png",
-    "avg_color_lab": [
-      59,
-      128,
       130
     ]
   },
@@ -9352,14 +8272,6 @@
     ]
   },
   {
-    "path": "full_cover_1169.png",
-    "avg_color_lab": [
-      114,
-      127,
-      119
-    ]
-  },
-  {
     "path": "full_cover_1170.png",
     "avg_color_lab": [
       102,
@@ -9392,14 +8304,6 @@
     ]
   },
   {
-    "path": "full_cover_1174.png",
-    "avg_color_lab": [
-      33,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_1175.png",
     "avg_color_lab": [
       159,
@@ -9413,14 +8317,6 @@
       218,
       124,
       132
-    ]
-  },
-  {
-    "path": "full_cover_1177.png",
-    "avg_color_lab": [
-      88,
-      128,
-      127
     ]
   },
   {
@@ -9589,14 +8485,6 @@
       104,
       135,
       142
-    ]
-  },
-  {
-    "path": "full_cover_1199.png",
-    "avg_color_lab": [
-      216,
-      132,
-      126
     ]
   },
   {
@@ -9808,14 +8696,6 @@
     ]
   },
   {
-    "path": "full_cover_1226.png",
-    "avg_color_lab": [
-      122,
-      109,
-      120
-    ]
-  },
-  {
     "path": "full_cover_1227.png",
     "avg_color_lab": [
       97,
@@ -10024,14 +8904,6 @@
     ]
   },
   {
-    "path": "full_cover_1253.png",
-    "avg_color_lab": [
-      152,
-      127,
-      128
-    ]
-  },
-  {
     "path": "full_cover_1254.png",
     "avg_color_lab": [
       79,
@@ -10061,14 +8933,6 @@
       128,
       202,
       102
-    ]
-  },
-  {
-    "path": "full_cover_1258.png",
-    "avg_color_lab": [
-      135,
-      124,
-      138
     ]
   },
   {
@@ -10184,27 +9048,11 @@
     ]
   },
   {
-    "path": "full_cover_1273.png",
-    "avg_color_lab": [
-      117,
-      134,
-      140
-    ]
-  },
-  {
     "path": "full_cover_1274.png",
     "avg_color_lab": [
       68,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_1275.png",
-    "avg_color_lab": [
-      117,
-      134,
-      140
     ]
   },
   {
@@ -10384,14 +9232,6 @@
     ]
   },
   {
-    "path": "full_cover_1298.png",
-    "avg_color_lab": [
-      117,
-      136,
-      125
-    ]
-  },
-  {
     "path": "full_cover_1299.png",
     "avg_color_lab": [
       160,
@@ -10488,35 +9328,11 @@
     ]
   },
   {
-    "path": "full_cover_1311.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_1312.png",
     "avg_color_lab": [
       81,
       126,
       133
-    ]
-  },
-  {
-    "path": "full_cover_1313.png",
-    "avg_color_lab": [
-      43,
-      145,
-      133
-    ]
-  },
-  {
-    "path": "full_cover_1314.png",
-    "avg_color_lab": [
-      129,
-      186,
-      183
     ]
   },
   {
@@ -10648,14 +9464,6 @@
     ]
   },
   {
-    "path": "full_cover_1331.png",
-    "avg_color_lab": [
-      46,
-      126,
-      124
-    ]
-  },
-  {
     "path": "full_cover_1332.png",
     "avg_color_lab": [
       90,
@@ -10709,14 +9517,6 @@
       192,
       125,
       139
-    ]
-  },
-  {
-    "path": "full_cover_1339.png",
-    "avg_color_lab": [
-      126,
-      132,
-      129
     ]
   },
   {
@@ -10869,22 +9669,6 @@
       160,
       132,
       146
-    ]
-  },
-  {
-    "path": "full_cover_1359.png",
-    "avg_color_lab": [
-      87,
-      123,
-      143
-    ]
-  },
-  {
-    "path": "full_cover_1360.png",
-    "avg_color_lab": [
-      130,
-      124,
-      121
     ]
   },
   {
@@ -11200,22 +9984,6 @@
     ]
   },
   {
-    "path": "full_cover_1400.png",
-    "avg_color_lab": [
-      97,
-      135,
-      132
-    ]
-  },
-  {
-    "path": "full_cover_1401.png",
-    "avg_color_lab": [
-      5,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_1402.png",
     "avg_color_lab": [
       122,
@@ -11248,27 +10016,11 @@
     ]
   },
   {
-    "path": "full_cover_1406.png",
-    "avg_color_lab": [
-      156,
-      127,
-      129
-    ]
-  },
-  {
     "path": "full_cover_1407.png",
     "avg_color_lab": [
       95,
       134,
       141
-    ]
-  },
-  {
-    "path": "full_cover_1408.png",
-    "avg_color_lab": [
-      43,
-      143,
-      137
     ]
   },
   {
@@ -11365,14 +10117,6 @@
       146,
       132,
       128
-    ]
-  },
-  {
-    "path": "full_cover_1421.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
     ]
   },
   {
@@ -11520,14 +10264,6 @@
     ]
   },
   {
-    "path": "full_cover_1440.png",
-    "avg_color_lab": [
-      33,
-      128,
-      113
-    ]
-  },
-  {
     "path": "full_cover_1441.png",
     "avg_color_lab": [
       44,
@@ -11664,14 +10400,6 @@
     ]
   },
   {
-    "path": "full_cover_1458.png",
-    "avg_color_lab": [
-      117,
-      134,
-      140
-    ]
-  },
-  {
     "path": "full_cover_1459.png",
     "avg_color_lab": [
       28,
@@ -11768,14 +10496,6 @@
     ]
   },
   {
-    "path": "full_cover_1471.png",
-    "avg_color_lab": [
-      125,
-      132,
-      134
-    ]
-  },
-  {
     "path": "full_cover_1472.png",
     "avg_color_lab": [
       38,
@@ -11813,22 +10533,6 @@
       237,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_1477.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
-    "path": "full_cover_1478.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -11928,22 +10632,6 @@
     ]
   },
   {
-    "path": "full_cover_1491.png",
-    "avg_color_lab": [
-      74,
-      134,
-      121
-    ]
-  },
-  {
-    "path": "full_cover_1492.png",
-    "avg_color_lab": [
-      17,
-      128,
-      127
-    ]
-  },
-  {
     "path": "full_cover_1493.png",
     "avg_color_lab": [
       164,
@@ -11981,14 +10669,6 @@
       82,
       126,
       131
-    ]
-  },
-  {
-    "path": "full_cover_1498.png",
-    "avg_color_lab": [
-      87,
-      170,
-      157
     ]
   },
   {
@@ -12040,27 +10720,11 @@
     ]
   },
   {
-    "path": "full_cover_1505.png",
-    "avg_color_lab": [
-      236,
-      128,
-      132
-    ]
-  },
-  {
     "path": "full_cover_1506.png",
     "avg_color_lab": [
       40,
       135,
       108
-    ]
-  },
-  {
-    "path": "full_cover_1507.png",
-    "avg_color_lab": [
-      151,
-      139,
-      115
     ]
   },
   {
@@ -12077,22 +10741,6 @@
       95,
       160,
       150
-    ]
-  },
-  {
-    "path": "full_cover_1510.png",
-    "avg_color_lab": [
-      201,
-      140,
-      123
-    ]
-  },
-  {
-    "path": "full_cover_1511.png",
-    "avg_color_lab": [
-      162,
-      174,
-      106
     ]
   },
   {
@@ -12133,14 +10781,6 @@
       196,
       133,
       141
-    ]
-  },
-  {
-    "path": "full_cover_1517.png",
-    "avg_color_lab": [
-      118,
-      115,
-      122
     ]
   },
   {
@@ -12232,14 +10872,6 @@
     ]
   },
   {
-    "path": "full_cover_1529.png",
-    "avg_color_lab": [
-      134,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_1530.png",
     "avg_color_lab": [
       27,
@@ -12304,14 +10936,6 @@
     ]
   },
   {
-    "path": "full_cover_1538.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_1539.png",
     "avg_color_lab": [
       49,
@@ -12325,22 +10949,6 @@
       46,
       129,
       127
-    ]
-  },
-  {
-    "path": "full_cover_1541.png",
-    "avg_color_lab": [
-      93,
-      139,
-      100
-    ]
-  },
-  {
-    "path": "full_cover_1542.png",
-    "avg_color_lab": [
-      78,
-      125,
-      128
     ]
   },
   {
@@ -12488,14 +11096,6 @@
     ]
   },
   {
-    "path": "full_cover_1561.png",
-    "avg_color_lab": [
-      106,
-      134,
-      148
-    ]
-  },
-  {
     "path": "full_cover_1562.png",
     "avg_color_lab": [
       96,
@@ -12600,14 +11200,6 @@
     ]
   },
   {
-    "path": "full_cover_1575.png",
-    "avg_color_lab": [
-      15,
-      132,
-      130
-    ]
-  },
-  {
     "path": "full_cover_1576.png",
     "avg_color_lab": [
       34,
@@ -12648,14 +11240,6 @@
     ]
   },
   {
-    "path": "full_cover_1581.png",
-    "avg_color_lab": [
-      112,
-      171,
-      117
-    ]
-  },
-  {
     "path": "full_cover_1582.png",
     "avg_color_lab": [
       89,
@@ -12664,27 +11248,11 @@
     ]
   },
   {
-    "path": "full_cover_1583.png",
-    "avg_color_lab": [
-      116,
-      128,
-      127
-    ]
-  },
-  {
     "path": "full_cover_1584.png",
     "avg_color_lab": [
       37,
       140,
       122
-    ]
-  },
-  {
-    "path": "full_cover_1585.png",
-    "avg_color_lab": [
-      89,
-      140,
-      135
     ]
   },
   {
@@ -12893,14 +11461,6 @@
       50,
       129,
       126
-    ]
-  },
-  {
-    "path": "full_cover_1612.png",
-    "avg_color_lab": [
-      97,
-      135,
-      132
     ]
   },
   {
@@ -13120,22 +11680,6 @@
     ]
   },
   {
-    "path": "full_cover_1640.png",
-    "avg_color_lab": [
-      81,
-      132,
-      121
-    ]
-  },
-  {
-    "path": "full_cover_1641.png",
-    "avg_color_lab": [
-      157,
-      157,
-      138
-    ]
-  },
-  {
     "path": "full_cover_1642.png",
     "avg_color_lab": [
       154,
@@ -13157,14 +11701,6 @@
       68,
       130,
       134
-    ]
-  },
-  {
-    "path": "full_cover_1645.png",
-    "avg_color_lab": [
-      17,
-      128,
-      127
     ]
   },
   {
@@ -13360,14 +11896,6 @@
     ]
   },
   {
-    "path": "full_cover_1670.png",
-    "avg_color_lab": [
-      59,
-      133,
-      143
-    ]
-  },
-  {
     "path": "full_cover_1671.png",
     "avg_color_lab": [
       173,
@@ -13464,14 +11992,6 @@
     ]
   },
   {
-    "path": "full_cover_1683.png",
-    "avg_color_lab": [
-      102,
-      135,
-      147
-    ]
-  },
-  {
     "path": "full_cover_1684.png",
     "avg_color_lab": [
       104,
@@ -13536,14 +12056,6 @@
     ]
   },
   {
-    "path": "full_cover_1692.png",
-    "avg_color_lab": [
-      177,
-      103,
-      99
-    ]
-  },
-  {
     "path": "full_cover_1693.png",
     "avg_color_lab": [
       141,
@@ -13584,43 +12096,11 @@
     ]
   },
   {
-    "path": "full_cover_1698.png",
-    "avg_color_lab": [
-      34,
-      128,
-      130
-    ]
-  },
-  {
-    "path": "full_cover_1699.png",
-    "avg_color_lab": [
-      114,
-      125,
-      109
-    ]
-  },
-  {
     "path": "full_cover_1700.png",
     "avg_color_lab": [
       46,
       138,
       136
-    ]
-  },
-  {
-    "path": "full_cover_1701.png",
-    "avg_color_lab": [
-      29,
-      127,
-      130
-    ]
-  },
-  {
-    "path": "full_cover_1702.png",
-    "avg_color_lab": [
-      237,
-      128,
-      132
     ]
   },
   {
@@ -13637,30 +12117,6 @@
       131,
       153,
       120
-    ]
-  },
-  {
-    "path": "full_cover_1705.png",
-    "avg_color_lab": [
-      117,
-      128,
-      127
-    ]
-  },
-  {
-    "path": "full_cover_1706.png",
-    "avg_color_lab": [
-      2,
-      128,
-      127
-    ]
-  },
-  {
-    "path": "full_cover_1707.png",
-    "avg_color_lab": [
-      33,
-      125,
-      123
     ]
   },
   {
@@ -13696,14 +12152,6 @@
     ]
   },
   {
-    "path": "full_cover_1712.png",
-    "avg_color_lab": [
-      224,
-      121,
-      155
-    ]
-  },
-  {
     "path": "full_cover_1713.png",
     "avg_color_lab": [
       47,
@@ -13725,14 +12173,6 @@
       130,
       151,
       152
-    ]
-  },
-  {
-    "path": "full_cover_1716.png",
-    "avg_color_lab": [
-      7,
-      128,
-      128
     ]
   },
   {
@@ -13928,27 +12368,11 @@
     ]
   },
   {
-    "path": "full_cover_1741.png",
-    "avg_color_lab": [
-      126,
-      132,
-      129
-    ]
-  },
-  {
     "path": "full_cover_1742.png",
     "avg_color_lab": [
       27,
       134,
       127
-    ]
-  },
-  {
-    "path": "full_cover_1743.png",
-    "avg_color_lab": [
-      59,
-      127,
-      134
     ]
   },
   {
@@ -14128,14 +12552,6 @@
     ]
   },
   {
-    "path": "full_cover_1766.png",
-    "avg_color_lab": [
-      33,
-      128,
-      113
-    ]
-  },
-  {
     "path": "full_cover_1767.png",
     "avg_color_lab": [
       154,
@@ -14173,14 +12589,6 @@
       65,
       143,
       135
-    ]
-  },
-  {
-    "path": "full_cover_1772.png",
-    "avg_color_lab": [
-      114,
-      139,
-      154
     ]
   },
   {
@@ -14240,14 +12648,6 @@
     ]
   },
   {
-    "path": "full_cover_1780.png",
-    "avg_color_lab": [
-      139,
-      140,
-      141
-    ]
-  },
-  {
     "path": "full_cover_1781.png",
     "avg_color_lab": [
       38,
@@ -14293,14 +12693,6 @@
       152,
       136,
       150
-    ]
-  },
-  {
-    "path": "full_cover_1787.png",
-    "avg_color_lab": [
-      223,
-      129,
-      128
     ]
   },
   {
@@ -14536,14 +12928,6 @@
     ]
   },
   {
-    "path": "full_cover_1817.png",
-    "avg_color_lab": [
-      59,
-      133,
-      143
-    ]
-  },
-  {
     "path": "full_cover_1818.png",
     "avg_color_lab": [
       91,
@@ -14640,30 +13024,6 @@
     ]
   },
   {
-    "path": "full_cover_1830.png",
-    "avg_color_lab": [
-      196,
-      135,
-      138
-    ]
-  },
-  {
-    "path": "full_cover_1831.png",
-    "avg_color_lab": [
-      17,
-      128,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_1832.png",
-    "avg_color_lab": [
-      71,
-      151,
-      137
-    ]
-  },
-  {
     "path": "full_cover_1833.png",
     "avg_color_lab": [
       48,
@@ -14744,14 +13104,6 @@
     ]
   },
   {
-    "path": "full_cover_1843.png",
-    "avg_color_lab": [
-      190,
-      146,
-      140
-    ]
-  },
-  {
     "path": "full_cover_1844.png",
     "avg_color_lab": [
       112,
@@ -14805,14 +13157,6 @@
       10,
       130,
       125
-    ]
-  },
-  {
-    "path": "full_cover_1851.png",
-    "avg_color_lab": [
-      138,
-      105,
-      133
     ]
   },
   {
@@ -15056,27 +13400,11 @@
     ]
   },
   {
-    "path": "full_cover_1882.png",
-    "avg_color_lab": [
-      59,
-      128,
-      130
-    ]
-  },
-  {
     "path": "full_cover_1883.png",
     "avg_color_lab": [
       134,
       123,
       119
-    ]
-  },
-  {
-    "path": "full_cover_1884.png",
-    "avg_color_lab": [
-      56,
-      126,
-      125
     ]
   },
   {
@@ -15141,22 +13469,6 @@
       141,
       120,
       130
-    ]
-  },
-  {
-    "path": "full_cover_1893.png",
-    "avg_color_lab": [
-      104,
-      123,
-      145
-    ]
-  },
-  {
-    "path": "full_cover_1894.png",
-    "avg_color_lab": [
-      5,
-      128,
-      129
     ]
   },
   {
@@ -15240,14 +13552,6 @@
     ]
   },
   {
-    "path": "full_cover_1905.png",
-    "avg_color_lab": [
-      77,
-      133,
-      139
-    ]
-  },
-  {
     "path": "full_cover_1906.png",
     "avg_color_lab": [
       17,
@@ -15280,14 +13584,6 @@
     ]
   },
   {
-    "path": "full_cover_1910.png",
-    "avg_color_lab": [
-      57,
-      144,
-      147
-    ]
-  },
-  {
     "path": "full_cover_1911.png",
     "avg_color_lab": [
       177,
@@ -15317,14 +13613,6 @@
       105,
       150,
       154
-    ]
-  },
-  {
-    "path": "full_cover_1915.png",
-    "avg_color_lab": [
-      206,
-      131,
-      131
     ]
   },
   {
@@ -15392,14 +13680,6 @@
     ]
   },
   {
-    "path": "full_cover_1924.png",
-    "avg_color_lab": [
-      124,
-      131,
-      130
-    ]
-  },
-  {
     "path": "full_cover_1925.png",
     "avg_color_lab": [
       95,
@@ -15413,14 +13693,6 @@
       101,
       130,
       129
-    ]
-  },
-  {
-    "path": "full_cover_1927.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -15461,30 +13733,6 @@
       117,
       128,
       142
-    ]
-  },
-  {
-    "path": "full_cover_1933.png",
-    "avg_color_lab": [
-      127,
-      127,
-      135
-    ]
-  },
-  {
-    "path": "full_cover_1934.png",
-    "avg_color_lab": [
-      83,
-      150,
-      131
-    ]
-  },
-  {
-    "path": "full_cover_1935.png",
-    "avg_color_lab": [
-      185,
-      137,
-      154
     ]
   },
   {
@@ -15592,14 +13840,6 @@
     ]
   },
   {
-    "path": "full_cover_1949.png",
-    "avg_color_lab": [
-      227,
-      118,
-      180
-    ]
-  },
-  {
     "path": "full_cover_1950.png",
     "avg_color_lab": [
       81,
@@ -15669,14 +13909,6 @@
       101,
       192,
       83
-    ]
-  },
-  {
-    "path": "full_cover_1959.png",
-    "avg_color_lab": [
-      37,
-      131,
-      128
     ]
   },
   {
@@ -15752,14 +13984,6 @@
     ]
   },
   {
-    "path": "full_cover_1969.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_1970.png",
     "avg_color_lab": [
       202,
@@ -15832,14 +14056,6 @@
     ]
   },
   {
-    "path": "full_cover_1979.png",
-    "avg_color_lab": [
-      143,
-      138,
-      134
-    ]
-  },
-  {
     "path": "full_cover_1980.png",
     "avg_color_lab": [
       43,
@@ -15888,22 +14104,6 @@
     ]
   },
   {
-    "path": "full_cover_1986.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
-    "path": "full_cover_1987.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_1988.png",
     "avg_color_lab": [
       84,
@@ -15917,14 +14117,6 @@
       197,
       123,
       120
-    ]
-  },
-  {
-    "path": "full_cover_1990.png",
-    "avg_color_lab": [
-      93,
-      128,
-      129
     ]
   },
   {
@@ -15965,14 +14157,6 @@
       151,
       129,
       141
-    ]
-  },
-  {
-    "path": "full_cover_1996.png",
-    "avg_color_lab": [
-      137,
-      121,
-      121
     ]
   },
   {
@@ -16136,22 +14320,6 @@
     ]
   },
   {
-    "path": "full_cover_2017.png",
-    "avg_color_lab": [
-      101,
-      128,
-      122
-    ]
-  },
-  {
-    "path": "full_cover_2018.png",
-    "avg_color_lab": [
-      186,
-      127,
-      126
-    ]
-  },
-  {
     "path": "full_cover_2019.png",
     "avg_color_lab": [
       102,
@@ -16192,14 +14360,6 @@
     ]
   },
   {
-    "path": "full_cover_2024.png",
-    "avg_color_lab": [
-      157,
-      157,
-      138
-    ]
-  },
-  {
     "path": "full_cover_2025.png",
     "avg_color_lab": [
       205,
@@ -16221,22 +14381,6 @@
       63,
       133,
       130
-    ]
-  },
-  {
-    "path": "full_cover_2028.png",
-    "avg_color_lab": [
-      143,
-      122,
-      187
-    ]
-  },
-  {
-    "path": "full_cover_2029.png",
-    "avg_color_lab": [
-      81,
-      132,
-      121
     ]
   },
   {
@@ -16320,14 +14464,6 @@
     ]
   },
   {
-    "path": "full_cover_2040.png",
-    "avg_color_lab": [
-      228,
-      126,
-      148
-    ]
-  },
-  {
     "path": "full_cover_2041.png",
     "avg_color_lab": [
       111,
@@ -16365,22 +14501,6 @@
       147,
       128,
       139
-    ]
-  },
-  {
-    "path": "full_cover_2046.png",
-    "avg_color_lab": [
-      11,
-      132,
-      126
-    ]
-  },
-  {
-    "path": "full_cover_2047.png",
-    "avg_color_lab": [
-      149,
-      155,
-      175
     ]
   },
   {
@@ -16429,14 +14549,6 @@
       80,
       132,
       138
-    ]
-  },
-  {
-    "path": "full_cover_2054.png",
-    "avg_color_lab": [
-      139,
-      131,
-      127
     ]
   },
   {
@@ -16552,14 +14664,6 @@
     ]
   },
   {
-    "path": "full_cover_2069.png",
-    "avg_color_lab": [
-      73,
-      111,
-      131
-    ]
-  },
-  {
     "path": "full_cover_2070.png",
     "avg_color_lab": [
       107,
@@ -16589,14 +14693,6 @@
       38,
       128,
       136
-    ]
-  },
-  {
-    "path": "full_cover_2074.png",
-    "avg_color_lab": [
-      41,
-      130,
-      129
     ]
   },
   {
@@ -16672,14 +14768,6 @@
     ]
   },
   {
-    "path": "full_cover_2084.png",
-    "avg_color_lab": [
-      223,
-      126,
-      124
-    ]
-  },
-  {
     "path": "full_cover_2085.png",
     "avg_color_lab": [
       132,
@@ -16709,14 +14797,6 @@
       205,
       132,
       132
-    ]
-  },
-  {
-    "path": "full_cover_2089.png",
-    "avg_color_lab": [
-      180,
-      144,
-      158
     ]
   },
   {
@@ -16757,22 +14837,6 @@
       115,
       128,
       137
-    ]
-  },
-  {
-    "path": "full_cover_2095.png",
-    "avg_color_lab": [
-      115,
-      128,
-      109
-    ]
-  },
-  {
-    "path": "full_cover_2096.png",
-    "avg_color_lab": [
-      182,
-      128,
-      121
     ]
   },
   {
@@ -16944,14 +15008,6 @@
     ]
   },
   {
-    "path": "full_cover_2118.png",
-    "avg_color_lab": [
-      153,
-      124,
-      130
-    ]
-  },
-  {
     "path": "full_cover_2119.png",
     "avg_color_lab": [
       124,
@@ -16973,22 +15029,6 @@
       65,
       141,
       113
-    ]
-  },
-  {
-    "path": "full_cover_2122.png",
-    "avg_color_lab": [
-      103,
-      132,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_2123.png",
-    "avg_color_lab": [
-      152,
-      127,
-      128
     ]
   },
   {
@@ -17029,14 +15069,6 @@
       124,
       158,
       70
-    ]
-  },
-  {
-    "path": "full_cover_2129.png",
-    "avg_color_lab": [
-      196,
-      135,
-      138
     ]
   },
   {
@@ -17116,14 +15148,6 @@
     "avg_color_lab": [
       5,
       128,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_2140.png",
-    "avg_color_lab": [
-      153,
-      129,
       128
     ]
   },
@@ -17221,14 +15245,6 @@
       163,
       145,
       151
-    ]
-  },
-  {
-    "path": "full_cover_2153.png",
-    "avg_color_lab": [
-      90,
-      128,
-      130
     ]
   },
   {
@@ -17400,14 +15416,6 @@
     ]
   },
   {
-    "path": "full_cover_2175.png",
-    "avg_color_lab": [
-      153,
-      115,
-      99
-    ]
-  },
-  {
     "path": "full_cover_2176.png",
     "avg_color_lab": [
       36,
@@ -17533,14 +15541,6 @@
       47,
       122,
       135
-    ]
-  },
-  {
-    "path": "full_cover_2192.png",
-    "avg_color_lab": [
-      154,
-      128,
-      128
     ]
   },
   {
@@ -17800,14 +15800,6 @@
     ]
   },
   {
-    "path": "full_cover_2225.png",
-    "avg_color_lab": [
-      170,
-      123,
-      117
-    ]
-  },
-  {
     "path": "full_cover_2226.png",
     "avg_color_lab": [
       140,
@@ -17896,14 +15888,6 @@
     ]
   },
   {
-    "path": "full_cover_2237.png",
-    "avg_color_lab": [
-      125,
-      133,
-      127
-    ]
-  },
-  {
     "path": "full_cover_2238.png",
     "avg_color_lab": [
       81,
@@ -17968,14 +15952,6 @@
     ]
   },
   {
-    "path": "full_cover_2246.png",
-    "avg_color_lab": [
-      2,
-      128,
-      127
-    ]
-  },
-  {
     "path": "full_cover_2247.png",
     "avg_color_lab": [
       47,
@@ -18005,14 +15981,6 @@
       100,
       157,
       128
-    ]
-  },
-  {
-    "path": "full_cover_2251.png",
-    "avg_color_lab": [
-      77,
-      133,
-      139
     ]
   },
   {
@@ -18072,14 +16040,6 @@
     ]
   },
   {
-    "path": "full_cover_2259.png",
-    "avg_color_lab": [
-      228,
-      126,
-      148
-    ]
-  },
-  {
     "path": "full_cover_2260.png",
     "avg_color_lab": [
       109,
@@ -18093,14 +16053,6 @@
       244,
       126,
       131
-    ]
-  },
-  {
-    "path": "full_cover_2262.png",
-    "avg_color_lab": [
-      147,
-      136,
-      155
     ]
   },
   {
@@ -18376,14 +16328,6 @@
     ]
   },
   {
-    "path": "full_cover_2297.png",
-    "avg_color_lab": [
-      190,
-      146,
-      140
-    ]
-  },
-  {
     "path": "full_cover_2298.png",
     "avg_color_lab": [
       89,
@@ -18584,14 +16528,6 @@
     ]
   },
   {
-    "path": "full_cover_2323.png",
-    "avg_color_lab": [
-      36,
-      129,
-      122
-    ]
-  },
-  {
     "path": "full_cover_2324.png",
     "avg_color_lab": [
       211,
@@ -18629,14 +16565,6 @@
       65,
       124,
       125
-    ]
-  },
-  {
-    "path": "full_cover_2329.png",
-    "avg_color_lab": [
-      116,
-      126,
-      130
     ]
   },
   {
@@ -18768,14 +16696,6 @@
     ]
   },
   {
-    "path": "full_cover_2346.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_2347.png",
     "avg_color_lab": [
       173,
@@ -18805,14 +16725,6 @@
       114,
       157,
       140
-    ]
-  },
-  {
-    "path": "full_cover_2351.png",
-    "avg_color_lab": [
-      122,
-      109,
-      120
     ]
   },
   {
@@ -18853,14 +16765,6 @@
       81,
       143,
       149
-    ]
-  },
-  {
-    "path": "full_cover_2357.png",
-    "avg_color_lab": [
-      253,
-      128,
-      128
     ]
   },
   {
@@ -18944,14 +16848,6 @@
     ]
   },
   {
-    "path": "full_cover_2368.png",
-    "avg_color_lab": [
-      211,
-      137,
-      131
-    ]
-  },
-  {
     "path": "full_cover_2369.png",
     "avg_color_lab": [
       109,
@@ -18997,14 +16893,6 @@
       178,
       128,
       131
-    ]
-  },
-  {
-    "path": "full_cover_2375.png",
-    "avg_color_lab": [
-      83,
-      154,
-      142
     ]
   },
   {
@@ -19149,14 +17037,6 @@
       196,
       129,
       133
-    ]
-  },
-  {
-    "path": "full_cover_2394.png",
-    "avg_color_lab": [
-      83,
-      150,
-      131
     ]
   },
   {
@@ -19344,14 +17224,6 @@
     ]
   },
   {
-    "path": "full_cover_2418.png",
-    "avg_color_lab": [
-      89,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_2419.png",
     "avg_color_lab": [
       95,
@@ -19464,14 +17336,6 @@
     ]
   },
   {
-    "path": "full_cover_2433.png",
-    "avg_color_lab": [
-      133,
-      127,
-      144
-    ]
-  },
-  {
     "path": "full_cover_2434.png",
     "avg_color_lab": [
       155,
@@ -19493,14 +17357,6 @@
       156,
       134,
       130
-    ]
-  },
-  {
-    "path": "full_cover_2437.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
     ]
   },
   {
@@ -19565,14 +17421,6 @@
       56,
       129,
       127
-    ]
-  },
-  {
-    "path": "full_cover_2446.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
     ]
   },
   {
@@ -19669,14 +17517,6 @@
       131,
       126,
       112
-    ]
-  },
-  {
-    "path": "full_cover_2459.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -19824,27 +17664,11 @@
     ]
   },
   {
-    "path": "full_cover_2478.png",
-    "avg_color_lab": [
-      53,
-      146,
-      151
-    ]
-  },
-  {
     "path": "full_cover_2479.png",
     "avg_color_lab": [
       123,
       129,
       146
-    ]
-  },
-  {
-    "path": "full_cover_2480.png",
-    "avg_color_lab": [
-      142,
-      130,
-      93
     ]
   },
   {
@@ -19877,14 +17701,6 @@
       127,
       139,
       137
-    ]
-  },
-  {
-    "path": "full_cover_2485.png",
-    "avg_color_lab": [
-      151,
-      128,
-      129
     ]
   },
   {
@@ -19976,14 +17792,6 @@
     ]
   },
   {
-    "path": "full_cover_2497.png",
-    "avg_color_lab": [
-      151,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_2498.png",
     "avg_color_lab": [
       126,
@@ -20064,14 +17872,6 @@
     ]
   },
   {
-    "path": "full_cover_2508.png",
-    "avg_color_lab": [
-      83,
-      148,
-      129
-    ]
-  },
-  {
     "path": "full_cover_2509.png",
     "avg_color_lab": [
       8,
@@ -20133,14 +17933,6 @@
       33,
       129,
       125
-    ]
-  },
-  {
-    "path": "full_cover_2517.png",
-    "avg_color_lab": [
-      78,
-      136,
-      134
     ]
   },
   {
@@ -20320,14 +18112,6 @@
     ]
   },
   {
-    "path": "full_cover_2540.png",
-    "avg_color_lab": [
-      150,
-      121,
-      85
-    ]
-  },
-  {
     "path": "full_cover_2541.png",
     "avg_color_lab": [
       88,
@@ -20448,14 +18232,6 @@
     ]
   },
   {
-    "path": "full_cover_2556.png",
-    "avg_color_lab": [
-      34,
-      128,
-      130
-    ]
-  },
-  {
     "path": "full_cover_2557.png",
     "avg_color_lab": [
       93,
@@ -20517,14 +18293,6 @@
       128,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_2565.png",
-    "avg_color_lab": [
-      119,
-      140,
-      151
     ]
   },
   {
@@ -20680,14 +18448,6 @@
     ]
   },
   {
-    "path": "full_cover_2585.png",
-    "avg_color_lab": [
-      52,
-      154,
-      148
-    ]
-  },
-  {
     "path": "full_cover_2586.png",
     "avg_color_lab": [
       27,
@@ -20720,27 +18480,11 @@
     ]
   },
   {
-    "path": "full_cover_2590.png",
-    "avg_color_lab": [
-      181,
-      124,
-      125
-    ]
-  },
-  {
     "path": "full_cover_2591.png",
     "avg_color_lab": [
       175,
       130,
       160
-    ]
-  },
-  {
-    "path": "full_cover_2592.png",
-    "avg_color_lab": [
-      123,
-      128,
-      128
     ]
   },
   {
@@ -21048,14 +18792,6 @@
     ]
   },
   {
-    "path": "full_cover_2631.png",
-    "avg_color_lab": [
-      112,
-      134,
-      128
-    ]
-  },
-  {
     "path": "full_cover_2632.png",
     "avg_color_lab": [
       38,
@@ -21077,14 +18813,6 @@
       149,
       130,
       133
-    ]
-  },
-  {
-    "path": "full_cover_2635.png",
-    "avg_color_lab": [
-      86,
-      131,
-      138
     ]
   },
   {
@@ -21164,14 +18892,6 @@
     "avg_color_lab": [
       16,
       128,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_2646.png",
-    "avg_color_lab": [
-      38,
-      131,
       128
     ]
   },
@@ -21272,14 +18992,6 @@
     ]
   },
   {
-    "path": "full_cover_2659.png",
-    "avg_color_lab": [
-      98,
-      127,
-      139
-    ]
-  },
-  {
     "path": "full_cover_2660.png",
     "avg_color_lab": [
       89,
@@ -21376,14 +19088,6 @@
     ]
   },
   {
-    "path": "full_cover_2672.png",
-    "avg_color_lab": [
-      228,
-      118,
-      180
-    ]
-  },
-  {
     "path": "full_cover_2673.png",
     "avg_color_lab": [
       8,
@@ -21437,14 +19141,6 @@
       126,
       139,
       135
-    ]
-  },
-  {
-    "path": "full_cover_2680.png",
-    "avg_color_lab": [
-      220,
-      128,
-      129
     ]
   },
   {
@@ -21517,14 +19213,6 @@
       162,
       129,
       138
-    ]
-  },
-  {
-    "path": "full_cover_2690.png",
-    "avg_color_lab": [
-      237,
-      128,
-      132
     ]
   },
   {
@@ -21616,14 +19304,6 @@
     ]
   },
   {
-    "path": "full_cover_2702.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_2703.png",
     "avg_color_lab": [
       124,
@@ -21653,14 +19333,6 @@
       75,
       129,
       131
-    ]
-  },
-  {
-    "path": "full_cover_2707.png",
-    "avg_color_lab": [
-      102,
-      159,
-      155
     ]
   },
   {
@@ -21701,22 +19373,6 @@
       33,
       127,
       126
-    ]
-  },
-  {
-    "path": "full_cover_2713.png",
-    "avg_color_lab": [
-      107,
-      122,
-      144
-    ]
-  },
-  {
-    "path": "full_cover_2714.png",
-    "avg_color_lab": [
-      117,
-      136,
-      125
     ]
   },
   {
@@ -21832,14 +19488,6 @@
     ]
   },
   {
-    "path": "full_cover_2729.png",
-    "avg_color_lab": [
-      185,
-      128,
-      146
-    ]
-  },
-  {
     "path": "full_cover_2730.png",
     "avg_color_lab": [
       70,
@@ -21912,14 +19560,6 @@
     ]
   },
   {
-    "path": "full_cover_2739.png",
-    "avg_color_lab": [
-      142,
-      142,
-      136
-    ]
-  },
-  {
     "path": "full_cover_2740.png",
     "avg_color_lab": [
       67,
@@ -21941,14 +19581,6 @@
       95,
       183,
       171
-    ]
-  },
-  {
-    "path": "full_cover_2743.png",
-    "avg_color_lab": [
-      147,
-      187,
-      162
     ]
   },
   {
@@ -22152,30 +19784,6 @@
     ]
   },
   {
-    "path": "full_cover_2769.png",
-    "avg_color_lab": [
-      191,
-      157,
-      141
-    ]
-  },
-  {
-    "path": "full_cover_2770.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
-    "path": "full_cover_2771.png",
-    "avg_color_lab": [
-      46,
-      126,
-      124
-    ]
-  },
-  {
     "path": "full_cover_2772.png",
     "avg_color_lab": [
       117,
@@ -22293,14 +19901,6 @@
       96,
       142,
       150
-    ]
-  },
-  {
-    "path": "full_cover_2787.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -22472,30 +20072,6 @@
     ]
   },
   {
-    "path": "full_cover_2809.png",
-    "avg_color_lab": [
-      73,
-      129,
-      131
-    ]
-  },
-  {
-    "path": "full_cover_2810.png",
-    "avg_color_lab": [
-      185,
-      128,
-      146
-    ]
-  },
-  {
-    "path": "full_cover_2811.png",
-    "avg_color_lab": [
-      180,
-      131,
-      132
-    ]
-  },
-  {
     "path": "full_cover_2812.png",
     "avg_color_lab": [
       55,
@@ -22525,14 +20101,6 @@
       146,
       114,
       113
-    ]
-  },
-  {
-    "path": "full_cover_2816.png",
-    "avg_color_lab": [
-      70,
-      132,
-      133
     ]
   },
   {
@@ -22840,14 +20408,6 @@
     ]
   },
   {
-    "path": "full_cover_2855.png",
-    "avg_color_lab": [
-      131,
-      126,
-      137
-    ]
-  },
-  {
     "path": "full_cover_2856.png",
     "avg_color_lab": [
       173,
@@ -22904,27 +20464,11 @@
     ]
   },
   {
-    "path": "full_cover_2863.png",
-    "avg_color_lab": [
-      34,
-      128,
-      130
-    ]
-  },
-  {
     "path": "full_cover_2864.png",
     "avg_color_lab": [
       36,
       129,
       128
-    ]
-  },
-  {
-    "path": "full_cover_2865.png",
-    "avg_color_lab": [
-      106,
-      150,
-      136
     ]
   },
   {
@@ -23040,14 +20584,6 @@
     ]
   },
   {
-    "path": "full_cover_2880.png",
-    "avg_color_lab": [
-      253,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_2881.png",
     "avg_color_lab": [
       32,
@@ -23080,27 +20616,11 @@
     ]
   },
   {
-    "path": "full_cover_2885.png",
-    "avg_color_lab": [
-      73,
-      129,
-      131
-    ]
-  },
-  {
     "path": "full_cover_2886.png",
     "avg_color_lab": [
       181,
       128,
       128
-    ]
-  },
-  {
-    "path": "full_cover_2887.png",
-    "avg_color_lab": [
-      84,
-      167,
-      157
     ]
   },
   {
@@ -23125,14 +20645,6 @@
       193,
       126,
       133
-    ]
-  },
-  {
-    "path": "full_cover_2891.png",
-    "avg_color_lab": [
-      183,
-      129,
-      124
     ]
   },
   {
@@ -23181,14 +20693,6 @@
       82,
       136,
       125
-    ]
-  },
-  {
-    "path": "full_cover_2898.png",
-    "avg_color_lab": [
-      116,
-      128,
-      127
     ]
   },
   {
@@ -23245,14 +20749,6 @@
       42,
       137,
       131
-    ]
-  },
-  {
-    "path": "full_cover_2906.png",
-    "avg_color_lab": [
-      82,
-      127,
-      127
     ]
   },
   {
@@ -23429,14 +20925,6 @@
       114,
       145,
       137
-    ]
-  },
-  {
-    "path": "full_cover_2929.png",
-    "avg_color_lab": [
-      133,
-      134,
-      156
     ]
   },
   {
@@ -23664,14 +21152,6 @@
     ]
   },
   {
-    "path": "full_cover_2958.png",
-    "avg_color_lab": [
-      150,
-      156,
-      107
-    ]
-  },
-  {
     "path": "full_cover_2959.png",
     "avg_color_lab": [
       96,
@@ -23744,14 +21224,6 @@
     ]
   },
   {
-    "path": "full_cover_2968.png",
-    "avg_color_lab": [
-      113,
-      195,
-      140
-    ]
-  },
-  {
     "path": "full_cover_2969.png",
     "avg_color_lab": [
       111,
@@ -23784,35 +21256,11 @@
     ]
   },
   {
-    "path": "full_cover_2973.png",
-    "avg_color_lab": [
-      96,
-      130,
-      127
-    ]
-  },
-  {
-    "path": "full_cover_2974.png",
-    "avg_color_lab": [
-      143,
-      127,
-      133
-    ]
-  },
-  {
     "path": "full_cover_2975.png",
     "avg_color_lab": [
       107,
       126,
       119
-    ]
-  },
-  {
-    "path": "full_cover_2976.png",
-    "avg_color_lab": [
-      78,
-      136,
-      134
     ]
   },
   {
@@ -23845,14 +21293,6 @@
       97,
       136,
       133
-    ]
-  },
-  {
-    "path": "full_cover_2981.png",
-    "avg_color_lab": [
-      109,
-      134,
-      142
     ]
   },
   {
@@ -23992,14 +21432,6 @@
     ]
   },
   {
-    "path": "full_cover_2999.png",
-    "avg_color_lab": [
-      237,
-      128,
-      132
-    ]
-  },
-  {
     "path": "full_cover_3000.png",
     "avg_color_lab": [
       48,
@@ -24101,14 +21533,6 @@
       128,
       128,
       130
-    ]
-  },
-  {
-    "path": "full_cover_3013.png",
-    "avg_color_lab": [
-      82,
-      130,
-      141
     ]
   },
   {
@@ -24408,14 +21832,6 @@
     ]
   },
   {
-    "path": "full_cover_3051.png",
-    "avg_color_lab": [
-      74,
-      134,
-      121
-    ]
-  },
-  {
     "path": "full_cover_3052.png",
     "avg_color_lab": [
       110,
@@ -24464,35 +21880,11 @@
     ]
   },
   {
-    "path": "full_cover_3058.png",
-    "avg_color_lab": [
-      43,
-      143,
-      137
-    ]
-  },
-  {
     "path": "full_cover_3059.png",
     "avg_color_lab": [
       54,
       136,
       137
-    ]
-  },
-  {
-    "path": "full_cover_3060.png",
-    "avg_color_lab": [
-      70,
-      129,
-      137
-    ]
-  },
-  {
-    "path": "full_cover_3061.png",
-    "avg_color_lab": [
-      27,
-      128,
-      131
     ]
   },
   {
@@ -24712,14 +22104,6 @@
     ]
   },
   {
-    "path": "full_cover_3089.png",
-    "avg_color_lab": [
-      65,
-      141,
-      113
-    ]
-  },
-  {
     "path": "full_cover_3090.png",
     "avg_color_lab": [
       244,
@@ -24784,14 +22168,6 @@
     ]
   },
   {
-    "path": "full_cover_3098.png",
-    "avg_color_lab": [
-      97,
-      126,
-      128
-    ]
-  },
-  {
     "path": "full_cover_3099.png",
     "avg_color_lab": [
       106,
@@ -24821,14 +22197,6 @@
       139,
       126,
       114
-    ]
-  },
-  {
-    "path": "full_cover_3103.png",
-    "avg_color_lab": [
-      3,
-      130,
-      129
     ]
   },
   {
@@ -24965,14 +22333,6 @@
       85,
       130,
       127
-    ]
-  },
-  {
-    "path": "full_cover_3121.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
     ]
   },
   {
@@ -25168,14 +22528,6 @@
     ]
   },
   {
-    "path": "full_cover_3146.png",
-    "avg_color_lab": [
-      80,
-      135,
-      146
-    ]
-  },
-  {
     "path": "full_cover_3147.png",
     "avg_color_lab": [
       73,
@@ -25216,27 +22568,11 @@
     ]
   },
   {
-    "path": "full_cover_3152.png",
-    "avg_color_lab": [
-      208,
-      129,
-      128
-    ]
-  },
-  {
     "path": "full_cover_3153.png",
     "avg_color_lab": [
       120,
       136,
       140
-    ]
-  },
-  {
-    "path": "full_cover_3154.png",
-    "avg_color_lab": [
-      77,
-      142,
-      91
     ]
   },
   {
@@ -25264,14 +22600,6 @@
     ]
   },
   {
-    "path": "full_cover_3158.png",
-    "avg_color_lab": [
-      86,
-      154,
-      142
-    ]
-  },
-  {
     "path": "full_cover_3159.png",
     "avg_color_lab": [
       85,
@@ -25285,14 +22613,6 @@
       124,
       127,
       128
-    ]
-  },
-  {
-    "path": "full_cover_3161.png",
-    "avg_color_lab": [
-      102,
-      135,
-      147
     ]
   },
   {
@@ -25368,14 +22688,6 @@
     ]
   },
   {
-    "path": "full_cover_3171.png",
-    "avg_color_lab": [
-      85,
-      140,
-      108
-    ]
-  },
-  {
     "path": "full_cover_3172.png",
     "avg_color_lab": [
       192,
@@ -25397,14 +22709,6 @@
       125,
       126,
       131
-    ]
-  },
-  {
-    "path": "full_cover_3175.png",
-    "avg_color_lab": [
-      80,
-      138,
-      133
     ]
   },
   {
@@ -25536,14 +22840,6 @@
     ]
   },
   {
-    "path": "full_cover_3192.png",
-    "avg_color_lab": [
-      65,
-      131,
-      142
-    ]
-  },
-  {
     "path": "full_cover_3193.png",
     "avg_color_lab": [
       154,
@@ -25597,14 +22893,6 @@
       117,
       133,
       146
-    ]
-  },
-  {
-    "path": "full_cover_3200.png",
-    "avg_color_lab": [
-      90,
-      128,
-      130
     ]
   },
   {
@@ -25701,14 +22989,6 @@
       191,
       125,
       138
-    ]
-  },
-  {
-    "path": "full_cover_3213.png",
-    "avg_color_lab": [
-      69,
-      138,
-      137
     ]
   },
   {
@@ -25944,14 +23224,6 @@
     ]
   },
   {
-    "path": "full_cover_3243.png",
-    "avg_color_lab": [
-      71,
-      135,
-      119
-    ]
-  },
-  {
     "path": "full_cover_3244.png",
     "avg_color_lab": [
       194,
@@ -25976,27 +23248,11 @@
     ]
   },
   {
-    "path": "full_cover_3247.png",
-    "avg_color_lab": [
-      81,
-      139,
-      128
-    ]
-  },
-  {
     "path": "full_cover_3248.png",
     "avg_color_lab": [
       103,
       147,
       118
-    ]
-  },
-  {
-    "path": "full_cover_3249.png",
-    "avg_color_lab": [
-      173,
-      142,
-      111
     ]
   },
   {
@@ -26104,14 +23360,6 @@
     ]
   },
   {
-    "path": "full_cover_3263.png",
-    "avg_color_lab": [
-      172,
-      159,
-      142
-    ]
-  },
-  {
     "path": "full_cover_3264.png",
     "avg_color_lab": [
       144,
@@ -26168,14 +23416,6 @@
     ]
   },
   {
-    "path": "full_cover_3271.png",
-    "avg_color_lab": [
-      54,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_3272.png",
     "avg_color_lab": [
       187,
@@ -26205,14 +23445,6 @@
       27,
       128,
       129
-    ]
-  },
-  {
-    "path": "full_cover_3276.png",
-    "avg_color_lab": [
-      98,
-      127,
-      139
     ]
   },
   {
@@ -26272,14 +23504,6 @@
     ]
   },
   {
-    "path": "full_cover_3284.png",
-    "avg_color_lab": [
-      141,
-      115,
-      101
-    ]
-  },
-  {
     "path": "full_cover_3285.png",
     "avg_color_lab": [
       39,
@@ -26301,14 +23525,6 @@
       132,
       127,
       136
-    ]
-  },
-  {
-    "path": "full_cover_3288.png",
-    "avg_color_lab": [
-      61,
-      138,
-      129
     ]
   },
   {
@@ -26421,14 +23637,6 @@
       170,
       139,
       171
-    ]
-  },
-  {
-    "path": "full_cover_3303.png",
-    "avg_color_lab": [
-      59,
-      129,
-      127
     ]
   },
   {
@@ -26576,14 +23784,6 @@
     ]
   },
   {
-    "path": "full_cover_3322.png",
-    "avg_color_lab": [
-      243,
-      130,
-      129
-    ]
-  },
-  {
     "path": "full_cover_3323.png",
     "avg_color_lab": [
       17,
@@ -26621,14 +23821,6 @@
       190,
       73,
       149
-    ]
-  },
-  {
-    "path": "full_cover_3328.png",
-    "avg_color_lab": [
-      220,
-      132,
-      128
     ]
   },
   {
@@ -26677,14 +23869,6 @@
       25,
       121,
       132
-    ]
-  },
-  {
-    "path": "full_cover_3335.png",
-    "avg_color_lab": [
-      25,
-      126,
-      129
     ]
   },
   {
@@ -27024,14 +24208,6 @@
     ]
   },
   {
-    "path": "full_cover_3378.png",
-    "avg_color_lab": [
-      92,
-      132,
-      134
-    ]
-  },
-  {
     "path": "full_cover_3379.png",
     "avg_color_lab": [
       186,
@@ -27069,14 +24245,6 @@
       140,
       123,
       132
-    ]
-  },
-  {
-    "path": "full_cover_3384.png",
-    "avg_color_lab": [
-      75,
-      171,
-      151
     ]
   },
   {
@@ -27125,14 +24293,6 @@
       168,
       131,
       129
-    ]
-  },
-  {
-    "path": "full_cover_3391.png",
-    "avg_color_lab": [
-      117,
-      128,
-      127
     ]
   },
   {
@@ -27192,14 +24352,6 @@
     ]
   },
   {
-    "path": "full_cover_3399.png",
-    "avg_color_lab": [
-      33,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_3400.png",
     "avg_color_lab": [
       94,
@@ -27220,22 +24372,6 @@
     "avg_color_lab": [
       132,
       130,
-      126
-    ]
-  },
-  {
-    "path": "full_cover_3403.png",
-    "avg_color_lab": [
-      152,
-      124,
-      126
-    ]
-  },
-  {
-    "path": "full_cover_3404.png",
-    "avg_color_lab": [
-      86,
-      127,
       126
     ]
   },
@@ -27277,14 +24413,6 @@
       41,
       132,
       130
-    ]
-  },
-  {
-    "path": "full_cover_3410.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -27336,14 +24464,6 @@
     ]
   },
   {
-    "path": "full_cover_3417.png",
-    "avg_color_lab": [
-      83,
-      147,
-      141
-    ]
-  },
-  {
     "path": "full_cover_3418.png",
     "avg_color_lab": [
       223,
@@ -27384,14 +24504,6 @@
     ]
   },
   {
-    "path": "full_cover_3423.png",
-    "avg_color_lab": [
-      82,
-      130,
-      141
-    ]
-  },
-  {
     "path": "full_cover_3424.png",
     "avg_color_lab": [
       98,
@@ -27413,14 +24525,6 @@
       70,
       113,
       154
-    ]
-  },
-  {
-    "path": "full_cover_3427.png",
-    "avg_color_lab": [
-      74,
-      134,
-      121
     ]
   },
   {
@@ -27477,14 +24581,6 @@
       110,
       101,
       131
-    ]
-  },
-  {
-    "path": "full_cover_3435.png",
-    "avg_color_lab": [
-      90,
-      141,
-      118
     ]
   },
   {
@@ -27616,14 +24712,6 @@
     ]
   },
   {
-    "path": "full_cover_3452.png",
-    "avg_color_lab": [
-      76,
-      143,
-      150
-    ]
-  },
-  {
     "path": "full_cover_3453.png",
     "avg_color_lab": [
       140,
@@ -27712,14 +24800,6 @@
     ]
   },
   {
-    "path": "full_cover_3464.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
-    ]
-  },
-  {
     "path": "full_cover_3465.png",
     "avg_color_lab": [
       109,
@@ -27781,14 +24861,6 @@
       223,
       133,
       127
-    ]
-  },
-  {
-    "path": "full_cover_3473.png",
-    "avg_color_lab": [
-      56,
-      126,
-      125
     ]
   },
   {
@@ -27904,14 +24976,6 @@
     ]
   },
   {
-    "path": "full_cover_3488.png",
-    "avg_color_lab": [
-      5,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_3489.png",
     "avg_color_lab": [
       209,
@@ -27925,14 +24989,6 @@
       163,
       127,
       141
-    ]
-  },
-  {
-    "path": "full_cover_3491.png",
-    "avg_color_lab": [
-      117,
-      122,
-      140
     ]
   },
   {
@@ -27992,22 +25048,6 @@
     ]
   },
   {
-    "path": "full_cover_3499.png",
-    "avg_color_lab": [
-      130,
-      136,
-      137
-    ]
-  },
-  {
-    "path": "full_cover_3500.png",
-    "avg_color_lab": [
-      59,
-      128,
-      130
-    ]
-  },
-  {
     "path": "full_cover_3501.png",
     "avg_color_lab": [
       77,
@@ -28036,14 +25076,6 @@
     "avg_color_lab": [
       170,
       128,
-      134
-    ]
-  },
-  {
-    "path": "full_cover_3505.png",
-    "avg_color_lab": [
-      92,
-      132,
       134
     ]
   },
@@ -28077,14 +25109,6 @@
       126,
       138,
       140
-    ]
-  },
-  {
-    "path": "full_cover_3510.png",
-    "avg_color_lab": [
-      133,
-      134,
-      156
     ]
   },
   {
@@ -28224,22 +25248,6 @@
     ]
   },
   {
-    "path": "full_cover_3528.png",
-    "avg_color_lab": [
-      138,
-      128,
-      129
-    ]
-  },
-  {
-    "path": "full_cover_3529.png",
-    "avg_color_lab": [
-      177,
-      103,
-      99
-    ]
-  },
-  {
     "path": "full_cover_3530.png",
     "avg_color_lab": [
       68,
@@ -28269,14 +25277,6 @@
       103,
       128,
       135
-    ]
-  },
-  {
-    "path": "full_cover_3534.png",
-    "avg_color_lab": [
-      54,
-      141,
-      141
     ]
   },
   {
@@ -28384,14 +25384,6 @@
     ]
   },
   {
-    "path": "full_cover_3548.png",
-    "avg_color_lab": [
-      143,
-      125,
-      89
-    ]
-  },
-  {
     "path": "full_cover_3549.png",
     "avg_color_lab": [
       52,
@@ -28405,14 +25397,6 @@
       142,
       129,
       135
-    ]
-  },
-  {
-    "path": "full_cover_3551.png",
-    "avg_color_lab": [
-      111,
-      135,
-      115
     ]
   },
   {
@@ -28477,14 +25461,6 @@
       11,
       128,
       131
-    ]
-  },
-  {
-    "path": "full_cover_3560.png",
-    "avg_color_lab": [
-      154,
-      131,
-      122
     ]
   },
   {
@@ -28680,14 +25656,6 @@
     ]
   },
   {
-    "path": "full_cover_3585.png",
-    "avg_color_lab": [
-      143,
-      122,
-      187
-    ]
-  },
-  {
     "path": "full_cover_3586.png",
     "avg_color_lab": [
       131,
@@ -28880,35 +25848,11 @@
     ]
   },
   {
-    "path": "full_cover_3610.png",
-    "avg_color_lab": [
-      33,
-      128,
-      128
-    ]
-  },
-  {
-    "path": "full_cover_3611.png",
-    "avg_color_lab": [
-      151,
-      139,
-      115
-    ]
-  },
-  {
     "path": "full_cover_3612.png",
     "avg_color_lab": [
       78,
       119,
       123
-    ]
-  },
-  {
-    "path": "full_cover_3613.png",
-    "avg_color_lab": [
-      2,
-      128,
-      128
     ]
   },
   {
@@ -28952,14 +25896,6 @@
     ]
   },
   {
-    "path": "full_cover_3619.png",
-    "avg_color_lab": [
-      122,
-      109,
-      120
-    ]
-  },
-  {
     "path": "full_cover_3620.png",
     "avg_color_lab": [
       125,
@@ -28981,14 +25917,6 @@
       112,
       134,
       142
-    ]
-  },
-  {
-    "path": "full_cover_3623.png",
-    "avg_color_lab": [
-      81,
-      128,
-      129
     ]
   },
   {
@@ -29061,14 +25989,6 @@
       210,
       132,
       129
-    ]
-  },
-  {
-    "path": "full_cover_3633.png",
-    "avg_color_lab": [
-      95,
-      139,
-      143
     ]
   },
   {
@@ -29184,14 +26104,6 @@
     ]
   },
   {
-    "path": "full_cover_3648.png",
-    "avg_color_lab": [
-      150,
-      121,
-      85
-    ]
-  },
-  {
     "path": "full_cover_3649.png",
     "avg_color_lab": [
       109,
@@ -29280,14 +26192,6 @@
     ]
   },
   {
-    "path": "full_cover_3660.png",
-    "avg_color_lab": [
-      173,
-      142,
-      111
-    ]
-  },
-  {
     "path": "full_cover_3661.png",
     "avg_color_lab": [
       175,
@@ -29336,14 +26240,6 @@
     ]
   },
   {
-    "path": "full_cover_3667.png",
-    "avg_color_lab": [
-      119,
-      117,
-      109
-    ]
-  },
-  {
     "path": "full_cover_3668.png",
     "avg_color_lab": [
       121,
@@ -29368,27 +26264,11 @@
     ]
   },
   {
-    "path": "full_cover_3671.png",
-    "avg_color_lab": [
-      143,
-      126,
-      125
-    ]
-  },
-  {
     "path": "full_cover_3672.png",
     "avg_color_lab": [
       63,
       131,
       124
-    ]
-  },
-  {
-    "path": "full_cover_3673.png",
-    "avg_color_lab": [
-      69,
-      128,
-      128
     ]
   },
   {
@@ -29600,30 +26480,6 @@
     ]
   },
   {
-    "path": "full_cover_3700.png",
-    "avg_color_lab": [
-      72,
-      132,
-      140
-    ]
-  },
-  {
-    "path": "full_cover_3701.png",
-    "avg_color_lab": [
-      147,
-      187,
-      163
-    ]
-  },
-  {
-    "path": "full_cover_3702.png",
-    "avg_color_lab": [
-      149,
-      126,
-      121
-    ]
-  },
-  {
     "path": "full_cover_3703.png",
     "avg_color_lab": [
       82,
@@ -29653,14 +26509,6 @@
       147,
       125,
       120
-    ]
-  },
-  {
-    "path": "full_cover_3707.png",
-    "avg_color_lab": [
-      140,
-      127,
-      112
     ]
   },
   {
@@ -29725,14 +26573,6 @@
       189,
       130,
       130
-    ]
-  },
-  {
-    "path": "full_cover_3716.png",
-    "avg_color_lab": [
-      146,
-      136,
-      148
     ]
   },
   {
@@ -29821,14 +26661,6 @@
       142,
       142,
       136
-    ]
-  },
-  {
-    "path": "full_cover_3728.png",
-    "avg_color_lab": [
-      29,
-      140,
-      102
     ]
   },
   {
@@ -30024,14 +26856,6 @@
     ]
   },
   {
-    "path": "full_cover_3753.png",
-    "avg_color_lab": [
-      186,
-      127,
-      126
-    ]
-  },
-  {
     "path": "full_cover_3754.png",
     "avg_color_lab": [
       82,
@@ -30064,27 +26888,11 @@
     ]
   },
   {
-    "path": "full_cover_3758.png",
-    "avg_color_lab": [
-      206,
-      130,
-      131
-    ]
-  },
-  {
     "path": "full_cover_3759.png",
     "avg_color_lab": [
       49,
       129,
       127
-    ]
-  },
-  {
-    "path": "full_cover_3760.png",
-    "avg_color_lab": [
-      77,
-      133,
-      139
     ]
   },
   {
@@ -30133,14 +26941,6 @@
       50,
       131,
       132
-    ]
-  },
-  {
-    "path": "full_cover_3767.png",
-    "avg_color_lab": [
-      21,
-      133,
-      127
     ]
   },
   {
@@ -30264,14 +27064,6 @@
     ]
   },
   {
-    "path": "full_cover_3783.png",
-    "avg_color_lab": [
-      44,
-      132,
-      127
-    ]
-  },
-  {
     "path": "full_cover_3784.png",
     "avg_color_lab": [
       35,
@@ -30341,14 +27133,6 @@
       65,
       133,
       133
-    ]
-  },
-  {
-    "path": "full_cover_3793.png",
-    "avg_color_lab": [
-      98,
-      127,
-      139
     ]
   },
   {
@@ -30480,14 +27264,6 @@
     ]
   },
   {
-    "path": "full_cover_3810.png",
-    "avg_color_lab": [
-      151,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_3811.png",
     "avg_color_lab": [
       83,
@@ -30517,14 +27293,6 @@
       92,
       133,
       147
-    ]
-  },
-  {
-    "path": "full_cover_3815.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -30576,14 +27344,6 @@
     ]
   },
   {
-    "path": "full_cover_3822.png",
-    "avg_color_lab": [
-      17,
-      128,
-      128
-    ]
-  },
-  {
     "path": "full_cover_3823.png",
     "avg_color_lab": [
       168,
@@ -30592,35 +27352,11 @@
     ]
   },
   {
-    "path": "full_cover_3824.png",
-    "avg_color_lab": [
-      138,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_3825.png",
     "avg_color_lab": [
       95,
       135,
       146
-    ]
-  },
-  {
-    "path": "full_cover_3826.png",
-    "avg_color_lab": [
-      133,
-      134,
-      156
-    ]
-  },
-  {
-    "path": "full_cover_3827.png",
-    "avg_color_lab": [
-      114,
-      139,
-      154
     ]
   },
   {
@@ -30653,14 +27389,6 @@
       163,
       114,
       129
-    ]
-  },
-  {
-    "path": "full_cover_3832.png",
-    "avg_color_lab": [
-      17,
-      128,
-      128
     ]
   },
   {
@@ -30768,14 +27496,6 @@
     ]
   },
   {
-    "path": "full_cover_3846.png",
-    "avg_color_lab": [
-      122,
-      109,
-      120
-    ]
-  },
-  {
     "path": "full_cover_3847.png",
     "avg_color_lab": [
       153,
@@ -30821,14 +27541,6 @@
       116,
       121,
       133
-    ]
-  },
-  {
-    "path": "full_cover_3853.png",
-    "avg_color_lab": [
-      156,
-      127,
-      129
     ]
   },
   {
@@ -31040,35 +27752,11 @@
     ]
   },
   {
-    "path": "full_cover_3880.png",
-    "avg_color_lab": [
-      84,
-      128,
-      135
-    ]
-  },
-  {
-    "path": "full_cover_3881.png",
-    "avg_color_lab": [
-      18,
-      141,
-      102
-    ]
-  },
-  {
     "path": "full_cover_3882.png",
     "avg_color_lab": [
       84,
       112,
       119
-    ]
-  },
-  {
-    "path": "full_cover_3883.png",
-    "avg_color_lab": [
-      126,
-      132,
-      129
     ]
   },
   {
@@ -31144,14 +27832,6 @@
     ]
   },
   {
-    "path": "full_cover_3893.png",
-    "avg_color_lab": [
-      143,
-      127,
-      133
-    ]
-  },
-  {
     "path": "full_cover_3894.png",
     "avg_color_lab": [
       121,
@@ -31173,14 +27853,6 @@
       9,
       138,
       131
-    ]
-  },
-  {
-    "path": "full_cover_3897.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -31408,14 +28080,6 @@
     ]
   },
   {
-    "path": "full_cover_3926.png",
-    "avg_color_lab": [
-      161,
-      122,
-      125
-    ]
-  },
-  {
     "path": "full_cover_3927.png",
     "avg_color_lab": [
       102,
@@ -31517,14 +28181,6 @@
       147,
       136,
       155
-    ]
-  },
-  {
-    "path": "full_cover_3940.png",
-    "avg_color_lab": [
-      119,
-      117,
-      109
     ]
   },
   {
@@ -31632,27 +28288,11 @@
     ]
   },
   {
-    "path": "full_cover_3954.png",
-    "avg_color_lab": [
-      109,
-      134,
-      142
-    ]
-  },
-  {
     "path": "full_cover_3955.png",
     "avg_color_lab": [
       134,
       132,
       139
-    ]
-  },
-  {
-    "path": "full_cover_3956.png",
-    "avg_color_lab": [
-      85,
-      130,
-      128
     ]
   },
   {
@@ -31664,14 +28304,6 @@
     ]
   },
   {
-    "path": "full_cover_3958.png",
-    "avg_color_lab": [
-      84,
-      167,
-      157
-    ]
-  },
-  {
     "path": "full_cover_3959.png",
     "avg_color_lab": [
       183,
@@ -31680,27 +28312,11 @@
     ]
   },
   {
-    "path": "full_cover_3960.png",
-    "avg_color_lab": [
-      112,
-      128,
-      129
-    ]
-  },
-  {
     "path": "full_cover_3961.png",
     "avg_color_lab": [
       61,
       138,
       129
-    ]
-  },
-  {
-    "path": "full_cover_3962.png",
-    "avg_color_lab": [
-      142,
-      138,
-      144
     ]
   },
   {
@@ -31757,14 +28373,6 @@
       138,
       154,
       153
-    ]
-  },
-  {
-    "path": "full_cover_3970.png",
-    "avg_color_lab": [
-      123,
-      202,
-      189
     ]
   },
   {
@@ -31872,14 +28480,6 @@
     ]
   },
   {
-    "path": "full_cover_3984.png",
-    "avg_color_lab": [
-      161,
-      122,
-      125
-    ]
-  },
-  {
     "path": "full_cover_3985.png",
     "avg_color_lab": [
       81,
@@ -31893,22 +28493,6 @@
       103,
       157,
       131
-    ]
-  },
-  {
-    "path": "full_cover_3987.png",
-    "avg_color_lab": [
-      122,
-      109,
-      120
-    ]
-  },
-  {
-    "path": "full_cover_3988.png",
-    "avg_color_lab": [
-      115,
-      133,
-      128
     ]
   },
   {
@@ -31992,14 +28576,6 @@
     ]
   },
   {
-    "path": "full_cover_3999.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
-    ]
-  },
-  {
     "path": "full_cover_4000.png",
     "avg_color_lab": [
       117,
@@ -32021,22 +28597,6 @@
       102,
       154,
       161
-    ]
-  },
-  {
-    "path": "full_cover_4003.png",
-    "avg_color_lab": [
-      95,
-      152,
-      151
-    ]
-  },
-  {
-    "path": "full_cover_4004.png",
-    "avg_color_lab": [
-      187,
-      126,
-      146
     ]
   },
   {
@@ -32093,14 +28653,6 @@
       149,
       123,
       108
-    ]
-  },
-  {
-    "path": "full_cover_4012.png",
-    "avg_color_lab": [
-      33,
-      134,
-      131
     ]
   },
   {
@@ -32224,14 +28776,6 @@
     ]
   },
   {
-    "path": "full_cover_4028.png",
-    "avg_color_lab": [
-      111,
-      136,
-      131
-    ]
-  },
-  {
     "path": "full_cover_4029.png",
     "avg_color_lab": [
       150,
@@ -32264,14 +28808,6 @@
     ]
   },
   {
-    "path": "full_cover_4033.png",
-    "avg_color_lab": [
-      29,
-      147,
-      137
-    ]
-  },
-  {
     "path": "full_cover_4034.png",
     "avg_color_lab": [
       172,
@@ -32296,14 +28832,6 @@
     ]
   },
   {
-    "path": "full_cover_4037.png",
-    "avg_color_lab": [
-      168,
-      136,
-      134
-    ]
-  },
-  {
     "path": "full_cover_4038.png",
     "avg_color_lab": [
       90,
@@ -32325,14 +28853,6 @@
       145,
       131,
       127
-    ]
-  },
-  {
-    "path": "full_cover_4041.png",
-    "avg_color_lab": [
-      249,
-      128,
-      128
     ]
   },
   {
@@ -32672,14 +29192,6 @@
     ]
   },
   {
-    "path": "full_cover_4084.png",
-    "avg_color_lab": [
-      210,
-      124,
-      157
-    ]
-  },
-  {
     "path": "full_cover_4085.png",
     "avg_color_lab": [
       28,
@@ -32744,14 +29256,6 @@
     ]
   },
   {
-    "path": "full_cover_4093.png",
-    "avg_color_lab": [
-      218,
-      107,
-      179
-    ]
-  },
-  {
     "path": "full_cover_4094.png",
     "avg_color_lab": [
       107,
@@ -32773,14 +29277,6 @@
       52,
       129,
       135
-    ]
-  },
-  {
-    "path": "full_cover_4097.png",
-    "avg_color_lab": [
-      189,
-      130,
-      133
     ]
   },
   {
@@ -32821,14 +29317,6 @@
       53,
       139,
       145
-    ]
-  },
-  {
-    "path": "full_cover_4103.png",
-    "avg_color_lab": [
-      109,
-      153,
-      153
     ]
   },
   {
@@ -32952,14 +29440,6 @@
     ]
   },
   {
-    "path": "full_cover_4119.png",
-    "avg_color_lab": [
-      153,
-      129,
-      128
-    ]
-  },
-  {
     "path": "full_cover_4120.png",
     "avg_color_lab": [
       73,
@@ -32997,14 +29477,6 @@
       73,
       160,
       141
-    ]
-  },
-  {
-    "path": "full_cover_4125.png",
-    "avg_color_lab": [
-      23,
-      138,
-      127
     ]
   },
   {
@@ -33056,14 +29528,6 @@
     ]
   },
   {
-    "path": "full_cover_4132.png",
-    "avg_color_lab": [
-      78,
-      136,
-      134
-    ]
-  },
-  {
     "path": "full_cover_4133.png",
     "avg_color_lab": [
       67,
@@ -33096,14 +29560,6 @@
     ]
   },
   {
-    "path": "full_cover_4137.png",
-    "avg_color_lab": [
-      138,
-      105,
-      133
-    ]
-  },
-  {
     "path": "full_cover_4138.png",
     "avg_color_lab": [
       94,
@@ -33125,14 +29581,6 @@
       196,
       109,
       98
-    ]
-  },
-  {
-    "path": "full_cover_4141.png",
-    "avg_color_lab": [
-      95,
-      130,
-      132
     ]
   },
   {
@@ -33160,14 +29608,6 @@
     ]
   },
   {
-    "path": "full_cover_4145.png",
-    "avg_color_lab": [
-      206,
-      116,
-      116
-    ]
-  },
-  {
     "path": "full_cover_4146.png",
     "avg_color_lab": [
       42,
@@ -33181,14 +29621,6 @@
       112,
       145,
       155
-    ]
-  },
-  {
-    "path": "full_cover_4148.png",
-    "avg_color_lab": [
-      97,
-      146,
-      136
     ]
   },
   {
@@ -33264,14 +29696,6 @@
     ]
   },
   {
-    "path": "full_cover_4158.png",
-    "avg_color_lab": [
-      195,
-      127,
-      130
-    ]
-  },
-  {
     "path": "full_cover_4159.png",
     "avg_color_lab": [
       64,
@@ -33285,22 +29709,6 @@
       150,
       156,
       107
-    ]
-  },
-  {
-    "path": "full_cover_4161.png",
-    "avg_color_lab": [
-      187,
-      126,
-      146
-    ]
-  },
-  {
-    "path": "full_cover_4162.png",
-    "avg_color_lab": [
-      253,
-      128,
-      128
     ]
   },
   {
@@ -33349,14 +29757,6 @@
       167,
       108,
       107
-    ]
-  },
-  {
-    "path": "full_cover_4169.png",
-    "avg_color_lab": [
-      14,
-      130,
-      127
     ]
   },
   {
@@ -33480,14 +29880,6 @@
     ]
   },
   {
-    "path": "full_cover_4185.png",
-    "avg_color_lab": [
-      115,
-      128,
-      109
-    ]
-  },
-  {
     "path": "full_cover_4186.png",
     "avg_color_lab": [
       103,
@@ -33528,35 +29920,11 @@
     ]
   },
   {
-    "path": "full_cover_4191.png",
-    "avg_color_lab": [
-      157,
-      157,
-      138
-    ]
-  },
-  {
     "path": "full_cover_4192.png",
     "avg_color_lab": [
       58,
       136,
       128
-    ]
-  },
-  {
-    "path": "full_cover_4193.png",
-    "avg_color_lab": [
-      102,
-      135,
-      147
-    ]
-  },
-  {
-    "path": "full_cover_4194.png",
-    "avg_color_lab": [
-      149,
-      155,
-      175
     ]
   },
   {
@@ -33613,14 +29981,6 @@
       100,
       147,
       162
-    ]
-  },
-  {
-    "path": "full_cover_4202.png",
-    "avg_color_lab": [
-      82,
-      128,
-      128
     ]
   },
   {
@@ -33736,14 +30096,6 @@
     ]
   },
   {
-    "path": "full_cover_4217.png",
-    "avg_color_lab": [
-      141,
-      123,
-      131
-    ]
-  },
-  {
     "path": "full_cover_4218.png",
     "avg_color_lab": [
       128,
@@ -33781,14 +30133,6 @@
       139,
       128,
       173
-    ]
-  },
-  {
-    "path": "full_cover_4223.png",
-    "avg_color_lab": [
-      148,
-      135,
-      133
     ]
   },
   {
@@ -33904,14 +30248,6 @@
     ]
   },
   {
-    "path": "full_cover_4238.png",
-    "avg_color_lab": [
-      43,
-      131,
-      131
-    ]
-  },
-  {
     "path": "full_cover_4239.png",
     "avg_color_lab": [
       104,
@@ -33952,27 +30288,11 @@
     ]
   },
   {
-    "path": "full_cover_4244.png",
-    "avg_color_lab": [
-      123,
-      202,
-      189
-    ]
-  },
-  {
     "path": "full_cover_4245.png",
     "avg_color_lab": [
       102,
       155,
       122
-    ]
-  },
-  {
-    "path": "full_cover_4246.png",
-    "avg_color_lab": [
-      51,
-      134,
-      127
     ]
   },
   {
@@ -34016,27 +30336,11 @@
     ]
   },
   {
-    "path": "full_cover_4252.png",
-    "avg_color_lab": [
-      95,
-      152,
-      151
-    ]
-  },
-  {
     "path": "full_cover_4253.png",
     "avg_color_lab": [
       94,
       181,
       164
-    ]
-  },
-  {
-    "path": "full_cover_4254.png",
-    "avg_color_lab": [
-      114,
-      139,
-      154
     ]
   },
   {
@@ -34053,14 +30357,6 @@
       171,
       130,
       133
-    ]
-  },
-  {
-    "path": "full_cover_4257.png",
-    "avg_color_lab": [
-      102,
-      159,
-      155
     ]
   },
   {
